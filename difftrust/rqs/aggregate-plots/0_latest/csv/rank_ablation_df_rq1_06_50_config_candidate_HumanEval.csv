@@ -1,0 +1,6 @@
+,Configuration,Raw Dis Mean Rank,Raw Err Mean Rank,Errors (Err > 0) Rank,Error Rate (Errors / Total) Rank,Detected Errors (Err > 0 and Dis > 0) Rank,Detection Rate (Detected / Errors) Rank,Confident (Dis = 0) Rank,Confident Rate (Confident / Total) Rank,Confident Errors (Err > 0 and Dis = 0) Rank,Confident Error Rate (Confident Errors / Confident) Rank,Error Mean When Confident Rank,Spearman Rho err vs. diss Rank,model,threshold
+0,deepseek_v3_0324_temp0.6_50_candidate,4.0,2.0,3.0,3.0,2.0,2.0,2.0,2.0,4.0,4.0,4.0,2.0,deepseek_v3_0324,50
+1,claude_sonnet_4_temp0.6_50_candidate,5.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,5.0,5.0,3.0,1.0,claude_sonnet_4,50
+2,llama_4_maverick_17b_temp0.6_50_candidate,3.0,3.0,2.0,2.0,3.0,3.0,3.0,3.0,3.0,2.0,2.0,3.0,llama_4_maverick_17b,50
+3,ministral_8b_temp0.6_50_candidate,1.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,2.0,3.0,5.0,5.0,ministral_8b,50
+4,gpt_4o_temp0.6_50_candidate,2.0,4.0,4.0,4.0,4.0,4.0,4.0,4.0,1.0,1.0,1.0,4.0,gpt_4o,50

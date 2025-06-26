@@ -1,0 +1,447 @@
+[
+  {
+    "name": "intersperse",
+    "task_id": "HumanEval/5",
+    "Failed": "Exception occurred during when querying the LLM -- APIStatusError : {'type': 'error', 'error': {'details': None, 'type': 'overloaded_error', 'message': 'Overloaded'}}"
+  },
+  {
+    "name": "parse_music",
+    "task_id": "HumanEval/17",
+    "Failed": "Exception occurred during when querying the LLM -- APIStatusError : {'type': 'error', 'error': {'details': None, 'type': 'overloaded_error', 'message': 'Overloaded'}}"
+  },
+  {
+    "name": "sort_even",
+    "task_id": "HumanEval/37",
+    "Failed": "Exception occurred during when querying the LLM -- APIStatusError : {'type': 'error', 'error': {'details': None, 'type': 'overloaded_error', 'message': 'Overloaded'}}"
+  },
+  {
+    "name": "fib4",
+    "task_id": "HumanEval/46",
+    "Failed": "Exception occurred during when querying the LLM -- APIStatusError : {'type': 'error', 'error': {'details': None, 'type': 'overloaded_error', 'message': 'Overloaded'}}"
+  },
+  {
+    "name": "correct_bracketing",
+    "task_id": "HumanEval/56",
+    "Failed": "Exception occurred during when querying the LLM -- APIStatusError : {'type': 'error', 'error': {'details': None, 'type': 'overloaded_error', 'message': 'Overloaded'}}"
+  },
+  {
+    "name": "largest_prime_factor",
+    "task_id": "HumanEval/59",
+    "Failed": "Timeout of 60.0 s. has been hit during disagreement computation"
+  },
+  {
+    "name": "sum_to_n",
+    "task_id": "HumanEval/60",
+    "Failed": "Exception occurred during when querying the LLM -- APIStatusError : {'type': 'error', 'error': {'details': None, 'type': 'overloaded_error', 'message': 'Overloaded'}}"
+  },
+  {
+    "name": "derivative",
+    "task_id": "HumanEval/62",
+    "Failed": "Exception occurred during when querying the LLM -- APIStatusError : {'type': 'error', 'error': {'details': None, 'type': 'overloaded_error', 'message': 'Overloaded'}}"
+  },
+  {
+    "name": "circular_shift",
+    "task_id": "HumanEval/65",
+    "Failed": "Exception occurred during when querying the LLM -- APIStatusError : {'type': 'error', 'error': {'details': None, 'type': 'overloaded_error', 'message': 'Overloaded'}}"
+  },
+  {
+    "name": "digitSum",
+    "task_id": "HumanEval/66",
+    "Failed": "Exception occurred during when querying the LLM -- APIStatusError : {'type': 'error', 'error': {'details': None, 'type': 'overloaded_error', 'message': 'Overloaded'}}"
+  },
+  {
+    "name": "strange_sort_list",
+    "task_id": "HumanEval/70",
+    "Failed": "Exception occurred during when querying the LLM -- APIStatusError : {'type': 'error', 'error': {'details': None, 'type': 'overloaded_error', 'message': 'Overloaded'}}"
+  },
+  {
+    "name": "will_it_fly",
+    "task_id": "HumanEval/72",
+    "Failed": "Exception occurred during when querying the LLM -- APIStatusError : {'type': 'error', 'error': {'details': None, 'type': 'overloaded_error', 'message': 'Overloaded'}}"
+  },
+  {
+    "name": "numerical_letter_grade",
+    "task_id": "HumanEval/81",
+    "Failed": "Exception occurred during when querying the LLM -- APIStatusError : {'type': 'error', 'error': {'details': None, 'type': 'overloaded_error', 'message': 'Overloaded'}}"
+  },
+  {
+    "name": "solve",
+    "task_id": "HumanEval/84",
+    "Failed": "Exception occurred during when querying the LLM -- APIStatusError : {'type': 'error', 'error': {'details': None, 'type': 'overloaded_error', 'message': 'Overloaded'}}"
+  },
+  {
+    "name": "anti_shuffle",
+    "task_id": "HumanEval/86",
+    "Failed": "Exception occurred during when querying the LLM -- APIStatusError : {'type': 'error', 'error': {'details': None, 'type': 'overloaded_error', 'message': 'Overloaded'}}"
+  },
+  {
+    "name": "encrypt",
+    "task_id": "HumanEval/89",
+    "Failed": "Exception occurred during when querying the LLM -- APIStatusError : {'type': 'error', 'error': {'details': None, 'type': 'overloaded_error', 'message': 'Overloaded'}}"
+  },
+  {
+    "name": "next_smallest",
+    "task_id": "HumanEval/90",
+    "Failed": "Exception occurred during when querying the LLM -- BadRequestError : Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}}"
+  },
+  {
+    "name": "is_bored",
+    "task_id": "HumanEval/91",
+    "Failed": "Exception occurred during when querying the LLM -- BadRequestError : Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}}"
+  },
+  {
+    "name": "any_int",
+    "task_id": "HumanEval/92",
+    "Failed": "Exception occurred during when querying the LLM -- BadRequestError : Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}}"
+  },
+  {
+    "name": "encode",
+    "task_id": "HumanEval/93",
+    "Failed": "Exception occurred during when querying the LLM -- BadRequestError : Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}}"
+  },
+  {
+    "name": "skjkasdkd",
+    "task_id": "HumanEval/94",
+    "Failed": "Exception occurred during when querying the LLM -- BadRequestError : Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}}"
+  },
+  {
+    "name": "check_dict_case",
+    "task_id": "HumanEval/95",
+    "Failed": "Exception occurred during when querying the LLM -- BadRequestError : Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}}"
+  },
+  {
+    "name": "count_up_to",
+    "task_id": "HumanEval/96",
+    "Failed": "Exception occurred during when querying the LLM -- BadRequestError : Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}}"
+  },
+  {
+    "name": "multiply",
+    "task_id": "HumanEval/97",
+    "Failed": "Exception occurred during when querying the LLM -- BadRequestError : Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}}"
+  },
+  {
+    "name": "count_upper",
+    "task_id": "HumanEval/98",
+    "Failed": "Exception occurred during when querying the LLM -- BadRequestError : Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}}"
+  },
+  {
+    "name": "closest_integer",
+    "task_id": "HumanEval/99",
+    "Failed": "Exception occurred during when querying the LLM -- BadRequestError : Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}}"
+  },
+  {
+    "name": "make_a_pile",
+    "task_id": "HumanEval/100",
+    "Failed": "Exception occurred during when querying the LLM -- BadRequestError : Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}}"
+  },
+  {
+    "name": "words_string",
+    "task_id": "HumanEval/101",
+    "Failed": "Exception occurred during when querying the LLM -- BadRequestError : Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}}"
+  },
+  {
+    "name": "choose_num",
+    "task_id": "HumanEval/102",
+    "Failed": "Exception occurred during when querying the LLM -- BadRequestError : Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}}"
+  },
+  {
+    "name": "rounded_avg",
+    "task_id": "HumanEval/103",
+    "Failed": "Exception occurred during when querying the LLM -- BadRequestError : Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}}"
+  },
+  {
+    "name": "unique_digits",
+    "task_id": "HumanEval/104",
+    "Failed": "Exception occurred during when querying the LLM -- BadRequestError : Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}}"
+  },
+  {
+    "name": "by_length",
+    "task_id": "HumanEval/105",
+    "Failed": "Exception occurred during when querying the LLM -- BadRequestError : Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}}"
+  },
+  {
+    "name": "f",
+    "task_id": "HumanEval/106",
+    "Failed": "Exception occurred during when querying the LLM -- BadRequestError : Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}}"
+  },
+  {
+    "name": "even_odd_palindrome",
+    "task_id": "HumanEval/107",
+    "Failed": "Exception occurred during when querying the LLM -- BadRequestError : Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}}"
+  },
+  {
+    "name": "count_nums",
+    "task_id": "HumanEval/108",
+    "Failed": "Exception occurred during when querying the LLM -- BadRequestError : Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}}"
+  },
+  {
+    "name": "move_one_ball",
+    "task_id": "HumanEval/109",
+    "Failed": "Exception occurred during when querying the LLM -- BadRequestError : Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}}"
+  },
+  {
+    "name": "exchange",
+    "task_id": "HumanEval/110",
+    "Failed": "Exception occurred during when querying the LLM -- BadRequestError : Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}}"
+  },
+  {
+    "name": "histogram",
+    "task_id": "HumanEval/111",
+    "Failed": "Exception occurred during when querying the LLM -- BadRequestError : Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}}"
+  },
+  {
+    "name": "reverse_delete",
+    "task_id": "HumanEval/112",
+    "Failed": "Exception occurred during when querying the LLM -- BadRequestError : Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}}"
+  },
+  {
+    "name": "odd_count",
+    "task_id": "HumanEval/113",
+    "Failed": "Exception occurred during when querying the LLM -- BadRequestError : Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}}"
+  },
+  {
+    "name": "minSubArraySum",
+    "task_id": "HumanEval/114",
+    "Failed": "Exception occurred during when querying the LLM -- BadRequestError : Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}}"
+  },
+  {
+    "name": "max_fill",
+    "task_id": "HumanEval/115",
+    "Failed": "Exception occurred during when querying the LLM -- BadRequestError : Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}}"
+  },
+  {
+    "name": "sort_array",
+    "task_id": "HumanEval/116",
+    "Failed": "Exception occurred during when querying the LLM -- BadRequestError : Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}}"
+  },
+  {
+    "name": "select_words",
+    "task_id": "HumanEval/117",
+    "Failed": "Exception occurred during when querying the LLM -- BadRequestError : Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}}"
+  },
+  {
+    "name": "get_closest_vowel",
+    "task_id": "HumanEval/118",
+    "Failed": "Exception occurred during when querying the LLM -- BadRequestError : Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}}"
+  },
+  {
+    "name": "match_parens",
+    "task_id": "HumanEval/119",
+    "Failed": "Exception occurred during when querying the LLM -- BadRequestError : Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}}"
+  },
+  {
+    "name": "maximum",
+    "task_id": "HumanEval/120",
+    "Failed": "Exception occurred during when querying the LLM -- BadRequestError : Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}}"
+  },
+  {
+    "name": "solution",
+    "task_id": "HumanEval/121",
+    "Failed": "Exception occurred during when querying the LLM -- BadRequestError : Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}}"
+  },
+  {
+    "name": "add_elements",
+    "task_id": "HumanEval/122",
+    "Failed": "Exception occurred during when querying the LLM -- BadRequestError : Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}}"
+  },
+  {
+    "name": "get_odd_collatz",
+    "task_id": "HumanEval/123",
+    "Failed": "Exception occurred during when querying the LLM -- BadRequestError : Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}}"
+  },
+  {
+    "name": "valid_date",
+    "task_id": "HumanEval/124",
+    "Failed": "Exception occurred during when querying the LLM -- BadRequestError : Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}}"
+  },
+  {
+    "name": "split_words",
+    "task_id": "HumanEval/125",
+    "Failed": "Exception occurred during when querying the LLM -- BadRequestError : Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}}"
+  },
+  {
+    "name": "is_sorted",
+    "task_id": "HumanEval/126",
+    "Failed": "Exception occurred during when querying the LLM -- BadRequestError : Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}}"
+  },
+  {
+    "name": "intersection",
+    "task_id": "HumanEval/127",
+    "Failed": "Exception occurred during when querying the LLM -- BadRequestError : Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}}"
+  },
+  {
+    "name": "prod_signs",
+    "task_id": "HumanEval/128",
+    "Failed": "Exception occurred during when querying the LLM -- BadRequestError : Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}}"
+  },
+  {
+    "name": "minPath",
+    "task_id": "HumanEval/129",
+    "Failed": "Exception occurred during when querying the LLM -- BadRequestError : Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}}"
+  },
+  {
+    "name": "tri",
+    "task_id": "HumanEval/130",
+    "Failed": "Exception occurred during when querying the LLM -- BadRequestError : Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}}"
+  },
+  {
+    "name": "digits",
+    "task_id": "HumanEval/131",
+    "Failed": "Exception occurred during when querying the LLM -- BadRequestError : Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}}"
+  },
+  {
+    "name": "is_nested",
+    "task_id": "HumanEval/132",
+    "Failed": "Exception occurred during when querying the LLM -- BadRequestError : Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}}"
+  },
+  {
+    "name": "sum_squares",
+    "task_id": "HumanEval/133",
+    "Failed": "Exception occurred during when querying the LLM -- BadRequestError : Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}}"
+  },
+  {
+    "name": "check_if_last_char_is_a_letter",
+    "task_id": "HumanEval/134",
+    "Failed": "Exception occurred during when querying the LLM -- BadRequestError : Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}}"
+  },
+  {
+    "name": "can_arrange",
+    "task_id": "HumanEval/135",
+    "Failed": "Exception occurred during when querying the LLM -- BadRequestError : Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}}"
+  },
+  {
+    "name": "largest_smallest_integers",
+    "task_id": "HumanEval/136",
+    "Failed": "Exception occurred during when querying the LLM -- BadRequestError : Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}}"
+  },
+  {
+    "name": "compare_one",
+    "task_id": "HumanEval/137",
+    "Failed": "Exception occurred during when querying the LLM -- BadRequestError : Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}}"
+  },
+  {
+    "name": "is_equal_to_sum_even",
+    "task_id": "HumanEval/138",
+    "Failed": "Exception occurred during when querying the LLM -- BadRequestError : Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}}"
+  },
+  {
+    "name": "special_factorial",
+    "task_id": "HumanEval/139",
+    "Failed": "Exception occurred during when querying the LLM -- BadRequestError : Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}}"
+  },
+  {
+    "name": "fix_spaces",
+    "task_id": "HumanEval/140",
+    "Failed": "Exception occurred during when querying the LLM -- BadRequestError : Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}}"
+  },
+  {
+    "name": "file_name_check",
+    "task_id": "HumanEval/141",
+    "Failed": "Exception occurred during when querying the LLM -- BadRequestError : Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}}"
+  },
+  {
+    "name": "sum_squares",
+    "task_id": "HumanEval/142",
+    "Failed": "Exception occurred during when querying the LLM -- BadRequestError : Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}}"
+  },
+  {
+    "name": "words_in_sentence",
+    "task_id": "HumanEval/143",
+    "Failed": "Exception occurred during when querying the LLM -- BadRequestError : Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}}"
+  },
+  {
+    "name": "simplify",
+    "task_id": "HumanEval/144",
+    "Failed": "Exception occurred during when querying the LLM -- BadRequestError : Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}}"
+  },
+  {
+    "name": "order_by_points",
+    "task_id": "HumanEval/145",
+    "Failed": "Exception occurred during when querying the LLM -- BadRequestError : Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}}"
+  },
+  {
+    "name": "specialFilter",
+    "task_id": "HumanEval/146",
+    "Failed": "Exception occurred during when querying the LLM -- BadRequestError : Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}}"
+  },
+  {
+    "name": "bf",
+    "task_id": "HumanEval/148",
+    "Failed": "Exception occurred during when querying the LLM -- BadRequestError : Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}}"
+  },
+  {
+    "name": "sorted_list_sum",
+    "task_id": "HumanEval/149",
+    "Failed": "Exception occurred during when querying the LLM -- BadRequestError : Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}}"
+  },
+  {
+    "name": "x_or_y",
+    "task_id": "HumanEval/150",
+    "Failed": "Exception occurred during when querying the LLM -- BadRequestError : Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}}"
+  },
+  {
+    "name": "double_the_difference",
+    "task_id": "HumanEval/151",
+    "Failed": "Exception occurred during when querying the LLM -- BadRequestError : Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}}"
+  },
+  {
+    "name": "compare",
+    "task_id": "HumanEval/152",
+    "Failed": "Exception occurred during when querying the LLM -- BadRequestError : Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}}"
+  },
+  {
+    "name": "Strongest_Extension",
+    "task_id": "HumanEval/153",
+    "Failed": "Exception occurred during when querying the LLM -- BadRequestError : Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}}"
+  },
+  {
+    "name": "cycpattern_check",
+    "task_id": "HumanEval/154",
+    "Failed": "Exception occurred during when querying the LLM -- BadRequestError : Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}}"
+  },
+  {
+    "name": "even_odd_count",
+    "task_id": "HumanEval/155",
+    "Failed": "Exception occurred during when querying the LLM -- BadRequestError : Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}}"
+  },
+  {
+    "name": "right_angle_triangle",
+    "task_id": "HumanEval/157",
+    "Failed": "Exception occurred during when querying the LLM -- BadRequestError : Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}}"
+  },
+  {
+    "name": "find_max",
+    "task_id": "HumanEval/158",
+    "Failed": "Exception occurred during when querying the LLM -- BadRequestError : Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}}"
+  },
+  {
+    "name": "eat",
+    "task_id": "HumanEval/159",
+    "Failed": "Exception occurred during when querying the LLM -- BadRequestError : Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}}"
+  },
+  {
+    "name": "solve",
+    "task_id": "HumanEval/161",
+    "Failed": "Exception occurred during when querying the LLM -- BadRequestError : Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}}"
+  },
+  {
+    "name": "string_to_md5",
+    "task_id": "HumanEval/162",
+    "Failed": "Exception occurred during when querying the LLM -- BadRequestError : Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}}"
+  },
+  {
+    "name": "generate_integers",
+    "task_id": "HumanEval/163",
+    "Failed": "Exception occurred during when querying the LLM -- BadRequestError : Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}}"
+  },
+  {
+    "name": "largest_prime_factor",
+    "task_id": "HumanEval/59",
+    "Failed": "Timeout of 60.0 s. has been hit during disagreement computation"
+  },
+  {
+    "name": "will_it_fly",
+    "task_id": "HumanEval/72",
+    "Failed": "Exception occurred during when querying the LLM -- APIStatusError : {'type': 'error', 'error': {'details': None, 'type': 'overloaded_error', 'message': 'Overloaded'}}"
+  }
+]

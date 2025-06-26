@@ -1,0 +1,17 @@
+,Configuration,Raw Dis Mean Rank,Raw Err Mean Rank,Errors (Err > 0) Rank,Error Rate (Errors / Total) Rank,Detected Errors (Err > 0 and Dis > 0) Rank,Detection Rate (Detected / Errors) Rank,Confident (Dis = 0) Rank,Confident Rate (Confident / Total) Rank,Confident Errors (Err > 0 and Dis = 0) Rank,Confident Error Rate (Confident Errors / Confident) Rank,Error Mean When Confident Rank,Spearman Rho err vs. diss Rank,model,threshold
+19,gemini_2_0_flash_lite_temp0.6_10000_sample,9.0,7.0,5.0,5.0,5.0,5.0,5.0,5.0,11.0,8.0,4.0,11.0,gemini_2_0_flash_lite,10000
+39,gemini_2_5_pro_temp0.6_10000_sample,11.0,10.0,12.0,11.0,11.0,6.0,10.0,11.0,12.0,13.0,10.0,6.0,gemini_2_5_pro,10000
+59,gpt_o4_mini_temp0.6_10000_sample,10.0,13.0,13.0,12.0,13.0,13.0,13.0,13.0,5.0,9.0,9.0,7.0,gpt_o4_mini,10000
+79,claude_sonnet_4_temp0.6_10000_sample,16.0,3.0,3.0,3.0,1.0,1.0,1.0,1.0,16.0,16.0,12.0,1.0,claude_sonnet_4,10000
+99,ministral_8b_temp0.6_10000_sample,3.0,15.0,14.0,14.0,12.0,7.0,12.0,12.0,13.0,14.0,14.0,9.0,ministral_8b,10000
+119,gemini_2_5_flash_temp0.6_10000_sample,12.0,9.0,10.0,10.0,8.0,8.0,7.0,8.0,10.0,10.0,13.0,4.0,gemini_2_5_flash,10000
+139,gpt_3_5_temp0.6_10000_sample,5.0,12.0,6.0,6.0,6.0,9.0,6.0,6.0,8.0,7.0,6.0,13.0,gpt_3_5,10000
+159,gpt_4o_temp0.6_10000_sample,8.0,5.0,9.0,8.0,10.0,11.0,9.0,10.0,6.0,5.0,5.0,12.0,gpt_4o,10000
+179,deepseek_r1_temp0.6_10000_sample,13.0,1.0,1.0,1.0,4.0,4.0,4.0,4.0,9.0,1.0,1.0,8.0,deepseek_r1,10000
+199,llama_3_1_8b_instruct_temp0.6_10000_sample,1.0,16.0,16.0,16.0,16.0,16.0,16.0,16.0,1.0,4.0,8.0,15.0,llama_3_1_8b_instruct,10000
+219,llama_4_maverick_17b_temp0.6_10000_sample,14.0,11.0,4.0,4.0,3.0,2.0,3.0,3.0,15.0,15.0,15.0,2.0,llama_4_maverick_17b,10000
+239,gpt_4_temp0.6_10000_sample,4.0,8.0,11.0,13.0,14.0,14.0,14.0,14.0,3.0,3.0,7.0,16.0,gpt_4,10000
+259,llama_3_3_70b_instruct_temp0.6_10000_sample,2.0,14.0,15.0,15.0,15.0,15.0,15.0,15.0,2.0,11.0,16.0,5.0,llama_3_3_70b_instruct,10000
+279,claude_opus_4_temp0.6_10000_sample,15.0,4.0,2.0,2.0,2.0,3.0,2.0,2.0,14.0,12.0,11.0,3.0,claude_opus_4,10000
+299,deepseek_v3_0324_temp0.6_10000_sample,6.0,2.0,7.0,7.0,7.0,12.0,8.0,7.0,4.0,2.0,2.0,10.0,deepseek_v3_0324,10000
+319,gpt_4_turbo_temp0.6_10000_sample,7.0,6.0,8.0,9.0,9.0,10.0,11.0,9.0,7.0,6.0,3.0,14.0,gpt_4_turbo,10000

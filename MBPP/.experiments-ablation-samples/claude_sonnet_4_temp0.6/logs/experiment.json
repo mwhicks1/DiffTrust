@@ -1,0 +1,47 @@
+[
+  {
+    "name": "similar_elements",
+    "task_id": 2,
+    "Failed": "An exception (TypeError : timeout_call() got an unexpected keyword argument 'func_'. Did you mean 'func'?) occurred during disagreement computation"
+  },
+  {
+    "name": "is_not_prime",
+    "task_id": 3,
+    "Failed": "Exception occurred during when querying the LLM -- RateLimitError : Error code: 429 - {'type': 'error', 'error': {'type': 'rate_limit_error', 'message': 'This request would exceed the rate limit for your organization (6028cba2-ce93-48ed-884b-bbcd1ea4fa16) of 16,000 output tokens per minute. For details, refer to: https://docs.anthropic.com/en/api/rate-limits. You can see the response headers for current usage. Please reduce the prompt length or the maximum tokens requested, or try again later. You may also contact sales at https://www.anthropic.com/contact-sales to discuss your options for a rate limit increase.'}}"
+  },
+  {
+    "name": "divisor",
+    "task_id": 96,
+    "Failed": "Exception occurred during when querying the LLM -- RemoteProtocolError : peer closed connection without sending complete message body (incomplete chunked read)"
+  },
+  {
+    "name": "get_ludic",
+    "task_id": 603,
+    "Failed": "Timeout of 60.0 s. has been hit during disagreement computation"
+  },
+  {
+    "name": "min_Jumps",
+    "task_id": 617,
+    "Failed": "Timeout of 60.0 s. has been hit during disagreement computation"
+  },
+  {
+    "name": "find_Index",
+    "task_id": 739,
+    "Failed": "Timeout of 60.0 s. has been hit during disagreement computation"
+  },
+  {
+    "name": "get_ludic",
+    "task_id": 603,
+    "Failed": "Timeout of 60.0 s. has been hit during disagreement computation"
+  },
+  {
+    "name": "min_Jumps",
+    "task_id": 617,
+    "Failed": "Timeout of 60.0 s. has been hit during disagreement computation"
+  },
+  {
+    "name": "find_Index",
+    "task_id": 739,
+    "Failed": "Timeout of 60.0 s. has been hit during disagreement computation"
+  }
+]

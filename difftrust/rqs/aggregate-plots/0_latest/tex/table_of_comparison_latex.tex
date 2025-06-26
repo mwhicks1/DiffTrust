@@ -1,0 +1,19 @@
+\begin{table}\scriptsize
+\begin{tabular}{@{}c@{ }c|l@{\quad}c@{ \ }|@{ \ }c@{\quad}c@{\quad}c@{\quad}c@{ }|@{}}
+\cline{3-8}
+&&&\textbf{Mean} &\textbf{Mean} &\textbf{Spearman}& \textbf{Detection} & \textbf{Undetected}\\
+&&\textbf{Model}& \textbf{Error} & \textbf{Incoherence} & \textbf{Correlation} & \textbf{Rate}	& \textbf{Mean Error}\\\hline
+\multirow{3}{*}{ }&\multirow{3}{*}{\rotatebox[origin=c]{90}{\textbf{MBPP}}}
+& Gemini 2 5 pro & 0.2960 & 0.0995 & 0.5276 & 0.6866 & 0.2071\\
+& & Gpt 4o & 0.2773 & 0.1123 & 0.6105 & 0.7243 & 0.1638\\
+& & Ministral 8b & 0.3741 & 0.1641 & 0.5892 & 0.7037 & 0.2107\\
+\hline
+\multirow{3}{*}{\rotatebox[origin=c]{90}{\textbf{Human}}}&\multirow{3}{*}{\rotatebox[origin=c]{90}{\textbf{Eval}}}
+& Gemini 2 5 pro & 0.0763 & 0.0295 & 0.7171 & 0.7188 & 0.0417\\
+& & Gpt 4o & 0.0927 & 0.0483 & 0.7181 & 0.7042 & 0.0460\\
+& & Ministral 8b & 0.1585 & 0.0911 & 0.7282 & 0.7381 & 0.0737\\
+\hline
+\end{tabular}
+\caption{\todo{Replace by more representative LLMS.}}
+\label{tab:rq1}
+\end{table}

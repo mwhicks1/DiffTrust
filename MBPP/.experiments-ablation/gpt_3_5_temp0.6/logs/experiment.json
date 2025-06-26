@@ -1,0 +1,3703 @@
+[
+  {
+    "name": "similar_elements",
+    "task_id": 2,
+    "Dis": 0.207,
+    "Err": 0.11,
+    "RefinedDis": 0.905,
+    "RefinedErr": 0.709,
+    "TotalTime": 43.905253410339355
+  },
+  {
+    "name": "is_not_prime",
+    "task_id": 3,
+    "Dis": 0.0,
+    "Err": 0.069,
+    "RefinedDis": 0.235,
+    "RefinedErr": 0.166,
+    "TotalTime": 44.604673862457275
+  },
+  {
+    "name": "heap_queue_largest",
+    "task_id": 4,
+    "Dis": 0.01,
+    "Err": 0.06,
+    "RefinedDis": 0.283,
+    "RefinedErr": 0.211,
+    "TotalTime": 48.2455792427063
+  },
+  {
+    "name": "differ_At_One_Bit_Pos",
+    "task_id": 6,
+    "Failed": "Timeout of 60.0 s. has been hit during disagreement computation"
+  },
+  {
+    "name": "find_char_long",
+    "task_id": 7,
+    "Dis": 0.0,
+    "Err": 0.48,
+    "RefinedDis": 0.139,
+    "RefinedErr": 0.453,
+    "TotalTime": 40.673210859298706
+  },
+  {
+    "name": "square_nums",
+    "task_id": 8,
+    "Dis": 0.0,
+    "Err": 0.0,
+    "RefinedDis": 0.02,
+    "RefinedErr": 0.014,
+    "TotalTime": 38.974090337753296
+  },
+  {
+    "name": "find_Rotations",
+    "task_id": 9,
+    "Dis": 0.21,
+    "Err": 0.848,
+    "RefinedDis": 0.611,
+    "RefinedErr": 0.442,
+    "TotalTime": 42.08633804321289
+  },
+  {
+    "name": "remove_Occ",
+    "task_id": 11,
+    "Dis": 0.012,
+    "Err": 0.116,
+    "RefinedDis": 0.026,
+    "RefinedErr": 0.086,
+    "TotalTime": 37.01447081565857
+  },
+  {
+    "name": "sort_matrix",
+    "task_id": 12,
+    "Dis": 0.474,
+    "Err": 0.314,
+    "RefinedDis": 0.528,
+    "RefinedErr": 0.29,
+    "TotalTime": 40.47765851020813
+  },
+  {
+    "name": "find_Volume",
+    "task_id": 14,
+    "Dis": 0.0,
+    "Err": 0.0,
+    "RefinedDis": 0.345,
+    "RefinedErr": 0.178,
+    "TotalTime": 37.882097482681274
+  },
+  {
+    "name": "text_lowercase_underscore",
+    "task_id": 16,
+    "Dis": 0.024,
+    "Err": 0.022,
+    "RefinedDis": 0.424,
+    "RefinedErr": 0.295,
+    "TotalTime": 48.543177127838135
+  },
+  {
+    "name": "square_perimeter",
+    "task_id": 17,
+    "Dis": 0.0,
+    "Err": 0.0,
+    "RefinedDis": 0.176,
+    "RefinedErr": 0.246,
+    "TotalTime": 41.43168306350708
+  },
+  {
+    "name": "remove_dirty_chars",
+    "task_id": 18,
+    "Dis": 0.0,
+    "Err": 0.0,
+    "RefinedDis": 0.191,
+    "RefinedErr": 0.097,
+    "TotalTime": 43.46535325050354
+  },
+  {
+    "name": "test_duplicate",
+    "task_id": 19,
+    "Dis": 0.0,
+    "Err": 0.0,
+    "RefinedDis": 0.0,
+    "RefinedErr": 0.0,
+    "TotalTime": 47.18862771987915
+  },
+  {
+    "name": "is_woodall",
+    "task_id": 20,
+    "Dis": 0.001,
+    "Err": 0.011,
+    "Failed": "Timeout of 60.0 s. has been hit during refined disagreement computation"
+  },
+  {
+    "name": "check",
+    "task_id": 56,
+    "Dis": 0.0,
+    "Err": 0.053,
+    "RefinedDis": 0.364,
+    "RefinedErr": 1.0,
+    "TotalTime": 40.441019773483276
+  },
+  {
+    "name": "find_Max_Num",
+    "task_id": 57,
+    "Dis": 0.0,
+    "Err": 0.578,
+    "RefinedDis": 0.699,
+    "RefinedErr": 0.779,
+    "TotalTime": 42.029552936553955
+  },
+  {
+    "name": "opposite_Signs",
+    "task_id": 58,
+    "Failed": "Exception occurred during compilation of LLM-generated code -- SyntaxError : '(' was never closed (<string>, line 22)"
+  },
+  {
+    "name": "is_octagonal",
+    "task_id": 59,
+    "Dis": 0.27,
+    "Err": 0.275,
+    "RefinedDis": 0.124,
+    "RefinedErr": 0.3,
+    "TotalTime": 41.41740441322327
+  },
+  {
+    "name": "count_Substrings",
+    "task_id": 61,
+    "Dis": 0.0,
+    "Err": 0.734,
+    "RefinedDis": 0.0,
+    "RefinedErr": 1.0,
+    "TotalTime": 45.16310739517212
+  },
+  {
+    "name": "smallest_num",
+    "task_id": 62,
+    "Dis": 0.0,
+    "Err": 0.0,
+    "RefinedDis": 0.0,
+    "RefinedErr": 0.0,
+    "TotalTime": 41.97916221618652
+  },
+  {
+    "name": "max_difference",
+    "task_id": 63,
+    "Dis": 0.003,
+    "Err": 1.0,
+    "RefinedDis": 0.371,
+    "RefinedErr": 0.788,
+    "TotalTime": 50.35883355140686
+  },
+  {
+    "name": "subject_marks",
+    "task_id": 64,
+    "Failed": "Exception occurred during compilation of LLM-generated code -- SyntaxError : '(' was never closed (<string>, line 25)"
+  },
+  {
+    "name": "recursive_list_sum",
+    "task_id": 65,
+    "Dis": 0.0,
+    "Err": 0.0,
+    "RefinedDis": 0.014,
+    "RefinedErr": 0.001,
+    "TotalTime": 43.49966025352478
+  },
+  {
+    "name": "pos_count",
+    "task_id": 66,
+    "Dis": 0.0,
+    "Err": 0.162,
+    "RefinedDis": 0.206,
+    "RefinedErr": 0.245,
+    "TotalTime": 40.92318534851074
+  },
+  {
+    "name": "bell_number",
+    "task_id": 67,
+    "Dis": 0.0,
+    "Err": 0.0,
+    "RefinedDis": 0.336,
+    "RefinedErr": 0.183,
+    "TotalTime": 45.70664715766907
+  },
+  {
+    "name": "is_Monotonic",
+    "task_id": 68,
+    "Dis": 0.008,
+    "Err": 0.07,
+    "RefinedDis": 0.148,
+    "RefinedErr": 0.153,
+    "TotalTime": 43.40004372596741
+  },
+  {
+    "name": "is_sublist",
+    "task_id": 69,
+    "Dis": 0.0,
+    "Err": 0.0,
+    "RefinedDis": 0.0,
+    "RefinedErr": 1.0,
+    "TotalTime": 41.39569807052612
+  },
+  {
+    "name": "get_equal",
+    "task_id": 70,
+    "Dis": 0.018,
+    "Err": 0.033,
+    "RefinedDis": 0.011,
+    "RefinedErr": 0.034,
+    "TotalTime": 45.57271933555603
+  },
+  {
+    "name": "comb_sort",
+    "task_id": 71,
+    "Dis": 0.0,
+    "Err": 0.0,
+    "RefinedDis": 0.008,
+    "RefinedErr": 0.01,
+    "TotalTime": 41.49447965621948
+  },
+  {
+    "name": "dif_Square",
+    "task_id": 72,
+    "Dis": 0.442,
+    "Err": 0.626,
+    "RefinedDis": 0.403,
+    "RefinedErr": 0.582,
+    "TotalTime": 39.75973868370056
+  },
+  {
+    "name": "is_samepatterns",
+    "task_id": 74,
+    "Dis": 0.011,
+    "Err": 0.005,
+    "RefinedDis": 0.0,
+    "RefinedErr": 1.0,
+    "TotalTime": 46.08439540863037
+  },
+  {
+    "name": "find_tuples",
+    "task_id": 75,
+    "Dis": 0.0,
+    "Err": 0.0,
+    "RefinedDis": 0.706,
+    "RefinedErr": 0.524,
+    "TotalTime": 43.85601449012756
+  },
+  {
+    "name": "is_Diff",
+    "task_id": 77,
+    "Dis": 0.0,
+    "Err": 0.0,
+    "RefinedDis": 0.0,
+    "RefinedErr": 0.0,
+    "TotalTime": 46.385765075683594
+  },
+  {
+    "name": "word_len",
+    "task_id": 79,
+    "Dis": 0.0,
+    "Err": 0.022,
+    "RefinedDis": 0.423,
+    "RefinedErr": 0.25,
+    "TotalTime": 37.66810750961304
+  },
+  {
+    "name": "tetrahedral_number",
+    "task_id": 80,
+    "Dis": 0.141,
+    "Err": 0.338,
+    "RefinedDis": 0.0,
+    "RefinedErr": 1.0,
+    "TotalTime": 44.75303888320923
+  },
+  {
+    "name": "volume_sphere",
+    "task_id": 82,
+    "Dis": 0.0,
+    "Err": 0.0,
+    "RefinedDis": 0.107,
+    "RefinedErr": 0.081,
+    "TotalTime": 37.57872128486633
+  },
+  {
+    "name": "get_Char",
+    "task_id": 83,
+    "Dis": 0.366,
+    "Err": 1.0,
+    "RefinedDis": 0.583,
+    "RefinedErr": 1.0,
+    "TotalTime": 44.739094257354736
+  },
+  {
+    "name": "sequence",
+    "task_id": 84,
+    "Failed": "Exception occurred during compilation of LLM-generated code -- SyntaxError : '(' was never closed (<string>, line 26)"
+  },
+  {
+    "name": "surfacearea_sphere",
+    "task_id": 85,
+    "Dis": 0.0,
+    "Err": 0.0,
+    "RefinedDis": 0.146,
+    "RefinedErr": 0.102,
+    "TotalTime": 41.11351037025452
+  },
+  {
+    "name": "centered_hexagonal_number",
+    "task_id": 86,
+    "Failed": "Exception occurred during compilation of LLM-generated code -- SyntaxError : '(' was never closed (<string>, line 26)"
+  },
+  {
+    "name": "merge_dictionaries_three",
+    "task_id": 87,
+    "Dis": 0.0,
+    "Err": 1.0,
+    "RefinedDis": 0.36,
+    "RefinedErr": 1.0,
+    "TotalTime": 43.22975707054138
+  },
+  {
+    "name": "freq_count",
+    "task_id": 88,
+    "Dis": 0.0,
+    "Err": 0.0,
+    "RefinedDis": 0.016,
+    "RefinedErr": 0.001,
+    "TotalTime": 38.902454137802124
+  },
+  {
+    "name": "closest_num",
+    "task_id": 89,
+    "Dis": 0.057,
+    "Err": 0.03,
+    "RefinedDis": 0.491,
+    "RefinedErr": 0.275,
+    "TotalTime": 49.41183924674988
+  },
+  {
+    "name": "len_log",
+    "task_id": 90,
+    "Dis": 0.0,
+    "Err": 0.0,
+    "RefinedDis": 0.0,
+    "RefinedErr": 0.0,
+    "TotalTime": 42.94242811203003
+  },
+  {
+    "name": "find_substring",
+    "task_id": 91,
+    "Dis": 0.0,
+    "Err": 0.13,
+    "RefinedDis": 0.372,
+    "RefinedErr": 0.828,
+    "TotalTime": 50.68922543525696
+  },
+  {
+    "name": "is_undulating",
+    "task_id": 92,
+    "Failed": "Exception occurred during compilation of LLM-generated code -- TypeError : Specification.__init__() got an unexpected keyword argument 'score'"
+  },
+  {
+    "name": "power",
+    "task_id": 93,
+    "Dis": 0.0,
+    "Err": 0.005,
+    "RefinedDis": 0.0,
+    "RefinedErr": 0.005,
+    "TotalTime": 42.46137762069702
+  },
+  {
+    "name": "index_minimum",
+    "task_id": 94,
+    "Dis": 0.449,
+    "Err": 0.443,
+    "RefinedDis": 0.607,
+    "RefinedErr": 0.59,
+    "TotalTime": 44.277063846588135
+  },
+  {
+    "name": "Find_Min_Length",
+    "task_id": 95,
+    "Dis": 0.0,
+    "Err": 0.0,
+    "RefinedDis": 0.608,
+    "RefinedErr": 0.398,
+    "TotalTime": 38.56332039833069
+  },
+  {
+    "name": "divisor",
+    "task_id": 96,
+    "Dis": 0.0,
+    "Err": 0.0,
+    "RefinedDis": 0.638,
+    "RefinedErr": 0.388,
+    "TotalTime": 44.04498362541199
+  },
+  {
+    "name": "frequency_lists",
+    "task_id": 97,
+    "Dis": 0.0,
+    "Err": 0.0,
+    "RefinedDis": 0.0,
+    "RefinedErr": 1.0,
+    "TotalTime": 45.038785457611084
+  },
+  {
+    "name": "multiply_num",
+    "task_id": 98,
+    "Dis": 0.0,
+    "Err": 0.0,
+    "RefinedDis": 0.001,
+    "RefinedErr": 0.0,
+    "TotalTime": 44.253952980041504
+  },
+  {
+    "name": "decimal_to_binary",
+    "task_id": 99,
+    "Failed": "Exception occurred during compilation of LLM-generated code -- AttributeError : 'set' object has no attribute 'items'"
+  },
+  {
+    "name": "next_smallest_palindrome",
+    "task_id": 100,
+    "Dis": 0.002,
+    "Err": 0.0,
+    "RefinedDis": 0.856,
+    "RefinedErr": 0.989,
+    "TotalTime": 41.19293165206909
+  },
+  {
+    "name": "kth_element",
+    "task_id": 101,
+    "Dis": 0.0,
+    "Err": 0.147,
+    "RefinedDis": 0.07,
+    "RefinedErr": 0.136,
+    "TotalTime": 40.887415170669556
+  },
+  {
+    "name": "snake_to_camel",
+    "task_id": 102,
+    "Dis": 0.22,
+    "Err": 0.79,
+    "RefinedDis": 0.799,
+    "RefinedErr": 0.915,
+    "TotalTime": 44.953205585479736
+  },
+  {
+    "name": "eulerian_num",
+    "task_id": 103,
+    "Failed": "Timeout of 60.0 s. has been hit during disagreement computation"
+  },
+  {
+    "name": "sort_sublists",
+    "task_id": 104,
+    "Dis": 0.371,
+    "Err": 0.264,
+    "RefinedDis": 0.346,
+    "RefinedErr": 1.0,
+    "TotalTime": 45.29877281188965
+  },
+  {
+    "name": "count",
+    "task_id": 105,
+    "Dis": 0.001,
+    "Err": 0.072,
+    "RefinedDis": 0.051,
+    "RefinedErr": 0.078,
+    "TotalTime": 41.393197536468506
+  },
+  {
+    "name": "add_lists",
+    "task_id": 106,
+    "Dis": 0.203,
+    "Err": 1.0,
+    "RefinedDis": 0.579,
+    "RefinedErr": 0.698,
+    "TotalTime": 37.95061922073364
+  },
+  {
+    "name": "merge_sorted_list",
+    "task_id": 108,
+    "Dis": 0.0,
+    "Err": 0.0,
+    "RefinedDis": 0.0,
+    "RefinedErr": 0.0,
+    "TotalTime": 42.9394428730011
+  },
+  {
+    "name": "odd_Equivalent",
+    "task_id": 109,
+    "Dis": 0.386,
+    "Err": 0.363,
+    "RefinedDis": 0.5,
+    "RefinedErr": 0.414,
+    "TotalTime": 41.093538761138916
+  },
+  {
+    "name": "common_in_nested_lists",
+    "task_id": 111,
+    "Dis": 0.0,
+    "Err": 0.007,
+    "RefinedDis": 0.005,
+    "RefinedErr": 0.008,
+    "TotalTime": 49.14439153671265
+  },
+  {
+    "name": "check_integer",
+    "task_id": 113,
+    "Dis": 0.0,
+    "Err": 0.063,
+    "RefinedDis": 0.381,
+    "RefinedErr": 0.226,
+    "TotalTime": 37.666730642318726
+  },
+  {
+    "name": "empty_dit",
+    "task_id": 115,
+    "Dis": 0.0,
+    "Err": 0.0,
+    "RefinedDis": 0.305,
+    "RefinedErr": 0.275,
+    "TotalTime": 41.221460819244385
+  },
+  {
+    "name": "tuple_to_int",
+    "task_id": 116,
+    "Dis": 0.176,
+    "Err": 0.095,
+    "RefinedDis": 0.282,
+    "RefinedErr": 0.201,
+    "TotalTime": 50.47936940193176
+  },
+  {
+    "name": "list_to_float",
+    "task_id": 117,
+    "Dis": 0.628,
+    "Err": 0.907,
+    "RefinedDis": 0.241,
+    "RefinedErr": 0.999,
+    "TotalTime": 49.241530656814575
+  },
+  {
+    "name": "string_to_list",
+    "task_id": 118,
+    "Dis": 0.0,
+    "Err": 0.306,
+    "RefinedDis": 0.165,
+    "RefinedErr": 0.3,
+    "TotalTime": 38.14288783073425
+  },
+  {
+    "name": "search",
+    "task_id": 119,
+    "Failed": "Timeout of 60.0 s. has been hit during disagreement computation"
+  },
+  {
+    "name": "max_product_tuple",
+    "task_id": 120,
+    "Dis": 0.868,
+    "Err": 0.781,
+    "RefinedDis": 0.0,
+    "RefinedErr": 0.0,
+    "TotalTime": 48.20570468902588
+  },
+  {
+    "name": "amicable_numbers_sum",
+    "task_id": 123,
+    "Failed": "Timeout of 60.0 s. has been hit during disagreement computation"
+  },
+  {
+    "name": "angle_complex",
+    "task_id": 124,
+    "Dis": 0.092,
+    "Err": 1.0,
+    "RefinedDis": 0.368,
+    "RefinedErr": 1.0,
+    "TotalTime": 41.6797559261322
+  },
+  {
+    "name": "find_length",
+    "task_id": 125,
+    "Dis": 0.139,
+    "Err": 0.477,
+    "RefinedDis": 0.0,
+    "RefinedErr": 0.548,
+    "TotalTime": 40.90699601173401
+  },
+  {
+    "name": "sum",
+    "task_id": 126,
+    "Dis": 0.0,
+    "Err": 1.0,
+    "RefinedDis": 0.19,
+    "RefinedErr": 0.926,
+    "TotalTime": 39.221755266189575
+  },
+  {
+    "name": "multiply_int",
+    "task_id": 127,
+    "Dis": 0.0,
+    "Err": 0.0,
+    "RefinedDis": 0.0,
+    "RefinedErr": 0.0,
+    "TotalTime": 43.927727699279785
+  },
+  {
+    "name": "long_words",
+    "task_id": 128,
+    "Failed": "Exception occurred during compilation of LLM-generated code -- TypeError : Specification.__init__() got an unexpected keyword argument 'score'"
+  },
+  {
+    "name": "magic_square_test",
+    "task_id": 129,
+    "Dis": 0.001,
+    "Err": 0.001,
+    "RefinedDis": 0.338,
+    "RefinedErr": 0.256,
+    "TotalTime": 49.21655321121216
+  },
+  {
+    "name": "max_occurrences",
+    "task_id": 130,
+    "Failed": "Exception occurred during compilation of LLM-generated code -- AttributeError : 'set' object has no attribute 'items'"
+  },
+  {
+    "name": "reverse_vowels",
+    "task_id": 131,
+    "Dis": 0.0,
+    "Err": 0.0,
+    "RefinedDis": 0.019,
+    "RefinedErr": 0.012,
+    "TotalTime": 42.968286991119385
+  },
+  {
+    "name": "tup_string",
+    "task_id": 132,
+    "Dis": 0.619,
+    "Err": 0.487,
+    "RefinedDis": 0.193,
+    "RefinedErr": 0.111,
+    "TotalTime": 42.625019550323486
+  },
+  {
+    "name": "sum_negativenum",
+    "task_id": 133,
+    "Dis": 0.0,
+    "Err": 0.0,
+    "RefinedDis": 0.0,
+    "RefinedErr": 0.0,
+    "TotalTime": 54.43075489997864
+  },
+  {
+    "name": "hexagonal_num",
+    "task_id": 135,
+    "Dis": 0.06,
+    "Err": 0.33,
+    "RefinedDis": 0.212,
+    "RefinedErr": 0.289,
+    "TotalTime": 44.585872411727905
+  },
+  {
+    "name": "zero_count",
+    "task_id": 137,
+    "Dis": 0.0,
+    "Err": 0.0,
+    "RefinedDis": 0.0,
+    "RefinedErr": 1.0,
+    "TotalTime": 57.510873556137085
+  },
+  {
+    "name": "is_Sum_Of_Powers_Of_Two",
+    "task_id": 138,
+    "Dis": 0.17,
+    "Err": 0.457,
+    "RefinedDis": 0.448,
+    "RefinedErr": 0.53,
+    "TotalTime": 46.87752103805542
+  },
+  {
+    "name": "circle_circumference",
+    "task_id": 139,
+    "Dis": 0.0,
+    "Err": 0.0,
+    "RefinedDis": 0.0,
+    "RefinedErr": 0.0,
+    "TotalTime": 40.75057029724121
+  },
+  {
+    "name": "extract_singly",
+    "task_id": 140,
+    "Dis": 0.0,
+    "Err": 1.0,
+    "RefinedDis": 0.269,
+    "RefinedErr": 1.0,
+    "TotalTime": 42.36107301712036
+  },
+  {
+    "name": "pancake_sort",
+    "task_id": 141,
+    "Dis": 0.185,
+    "Err": 0.099,
+    "RefinedDis": 0.0,
+    "RefinedErr": 1.0,
+    "TotalTime": 50.83289670944214
+  },
+  {
+    "name": "count_samepair",
+    "task_id": 142,
+    "Dis": 0.0,
+    "Err": 0.0,
+    "RefinedDis": 0.0,
+    "RefinedErr": 1.0,
+    "TotalTime": 46.33475208282471
+  },
+  {
+    "name": "find_lists",
+    "task_id": 143,
+    "Dis": 0.0,
+    "Err": 0.476,
+    "RefinedDis": 0.189,
+    "RefinedErr": 0.487,
+    "TotalTime": 41.70288562774658
+  },
+  {
+    "name": "max_Abs_Diff",
+    "task_id": 145,
+    "Dis": 0.006,
+    "Err": 0.005,
+    "RefinedDis": 0.525,
+    "RefinedErr": 0.337,
+    "TotalTime": 39.60015320777893
+  },
+  {
+    "name": "find_solution",
+    "task_id": 160,
+    "Failed": "Timeout of 60.0 s. has been hit during disagreement computation"
+  },
+  {
+    "name": "remove_elements",
+    "task_id": 161,
+    "Dis": 0.0,
+    "Err": 0.0,
+    "RefinedDis": 0.657,
+    "RefinedErr": 0.588,
+    "TotalTime": 40.45374345779419
+  },
+  {
+    "name": "sum_series",
+    "task_id": 162,
+    "Dis": 0.0,
+    "Err": 0.0,
+    "RefinedDis": 0.183,
+    "RefinedErr": 0.079,
+    "TotalTime": 36.91737365722656
+  },
+  {
+    "name": "area_polygon",
+    "task_id": 163,
+    "Dis": 0.682,
+    "Err": 0.772,
+    "RefinedDis": 0.748,
+    "RefinedErr": 0.93,
+    "TotalTime": 43.70182394981384
+  },
+  {
+    "name": "are_equivalent",
+    "task_id": 164,
+    "Dis": 0.233,
+    "Err": 0.22,
+    "RefinedDis": 0.257,
+    "RefinedErr": 0.245,
+    "TotalTime": 51.84857678413391
+  },
+  {
+    "name": "count_char_position",
+    "task_id": 165,
+    "Dis": 0.097,
+    "Err": 0.052,
+    "RefinedDis": 0.289,
+    "RefinedErr": 0.163,
+    "TotalTime": 38.69244861602783
+  },
+  {
+    "name": "find_even_pair",
+    "task_id": 166,
+    "Dis": 0.0,
+    "Err": 0.0,
+    "RefinedDis": 0.187,
+    "RefinedErr": 0.107,
+    "TotalTime": 48.058552742004395
+  },
+  {
+    "name": "next_power_of_2",
+    "task_id": 167,
+    "Failed": "Timeout of 60.0 s. has been hit during disagreement computation"
+  },
+  {
+    "name": "frequency",
+    "task_id": 168,
+    "Dis": 0.0,
+    "Err": 0.0,
+    "RefinedDis": 0.194,
+    "RefinedErr": 0.093,
+    "TotalTime": 39.65190362930298
+  },
+  {
+    "name": "sum_range_list",
+    "task_id": 170,
+    "Dis": 0.733,
+    "Err": 0.602,
+    "RefinedDis": 0.529,
+    "RefinedErr": 0.552,
+    "TotalTime": 41.84698534011841
+  },
+  {
+    "name": "perimeter_pentagon",
+    "task_id": 171,
+    "Dis": 0.0,
+    "Err": 0.0,
+    "RefinedDis": 0.17,
+    "RefinedErr": 0.119,
+    "TotalTime": 57.985061168670654
+  },
+  {
+    "name": "count_occurance",
+    "task_id": 172,
+    "Dis": 0.0,
+    "Err": 0.0,
+    "RefinedDis": 0.027,
+    "RefinedErr": 0.016,
+    "TotalTime": 46.52180552482605
+  },
+  {
+    "name": "check_type",
+    "task_id": 222,
+    "Failed": "Exception occurred during compilation of LLM-generated code -- AttributeError : 'set' object has no attribute 'items'"
+  },
+  {
+    "name": "is_majority",
+    "task_id": 223,
+    "Dis": 0.358,
+    "Err": 0.4,
+    "RefinedDis": 0.699,
+    "RefinedErr": 0.617,
+    "TotalTime": 57.0761878490448
+  },
+  {
+    "name": "count_Set_Bits",
+    "task_id": 224,
+    "Failed": "Timeout of 60.0 s. has been hit during disagreement computation"
+  },
+  {
+    "name": "odd_values_string",
+    "task_id": 226,
+    "Dis": 0.336,
+    "Err": 0.177,
+    "RefinedDis": 0.549,
+    "RefinedErr": 0.357,
+    "TotalTime": 36.67141914367676
+  },
+  {
+    "name": "min_of_three",
+    "task_id": 227,
+    "Dis": 0.0,
+    "Err": 0.0,
+    "RefinedDis": 0.369,
+    "RefinedErr": 0.197,
+    "TotalTime": 49.80801200866699
+  },
+  {
+    "name": "all_Bits_Set_In_The_Given_Range",
+    "task_id": 228,
+    "Dis": 0.288,
+    "Err": 0.284,
+    "RefinedDis": 0.276,
+    "RefinedErr": 0.488,
+    "TotalTime": 39.90750694274902
+  },
+  {
+    "name": "re_arrange_array",
+    "task_id": 229,
+    "Dis": 0.393,
+    "Err": 0.219,
+    "RefinedDis": 0.351,
+    "RefinedErr": 0.842,
+    "TotalTime": 45.77723526954651
+  },
+  {
+    "name": "replace_blank",
+    "task_id": 230,
+    "Dis": 0.0,
+    "Err": 0.0,
+    "RefinedDis": 0.0,
+    "RefinedErr": 1.0,
+    "TotalTime": 43.104334115982056
+  },
+  {
+    "name": "larg_nnum",
+    "task_id": 232,
+    "Dis": 0.049,
+    "Err": 0.22,
+    "RefinedDis": 0.425,
+    "RefinedErr": 0.395,
+    "TotalTime": 45.3987512588501
+  },
+  {
+    "name": "lateralsuface_cylinder",
+    "task_id": 233,
+    "Dis": 0.349,
+    "Err": 0.183,
+    "RefinedDis": 0.189,
+    "RefinedErr": 0.103,
+    "TotalTime": 45.624345541000366
+  },
+  {
+    "name": "volume_cube",
+    "task_id": 234,
+    "Dis": 0.0,
+    "Err": 0.0,
+    "RefinedDis": 0.243,
+    "RefinedErr": 0.18,
+    "TotalTime": 44.54266309738159
+  },
+  {
+    "name": "even_bit_set_number",
+    "task_id": 235,
+    "Dis": 0.442,
+    "Err": 0.97,
+    "RefinedDis": 0.0,
+    "RefinedErr": 1.0,
+    "TotalTime": 43.608333587646484
+  },
+  {
+    "name": "check_occurences",
+    "task_id": 237,
+    "Dis": 0.0,
+    "Err": 0.985,
+    "RefinedDis": 0.0,
+    "RefinedErr": 1.0,
+    "TotalTime": 49.76495981216431
+  },
+  {
+    "name": "number_of_substrings",
+    "task_id": 238,
+    "Dis": 0.353,
+    "Err": 0.188,
+    "RefinedDis": 0.359,
+    "RefinedErr": 0.19,
+    "TotalTime": 43.813443660736084
+  },
+  {
+    "name": "get_total_number_of_sequences",
+    "task_id": 239,
+    "Dis": 0.249,
+    "Err": 0.407,
+    "Failed": "Timeout of 60.0 s. has been hit during refined disagreement computation"
+  },
+  {
+    "name": "replace_list",
+    "task_id": 240,
+    "Dis": 0.233,
+    "Err": 0.116,
+    "RefinedDis": 0.567,
+    "RefinedErr": 0.577,
+    "TotalTime": 40.15835785865784
+  },
+  {
+    "name": "count_charac",
+    "task_id": 242,
+    "Dis": 0.0,
+    "Err": 0.0,
+    "RefinedDis": 0.174,
+    "RefinedErr": 0.107,
+    "TotalTime": 41.21870493888855
+  },
+  {
+    "name": "next_Perfect_Square",
+    "task_id": 244,
+    "Dis": 0.248,
+    "Err": 0.128,
+    "RefinedDis": 1.0,
+    "RefinedErr": 1.0,
+    "TotalTime": 51.284016847610474
+  },
+  {
+    "name": "max_sum",
+    "task_id": 245,
+    "Dis": 0.0,
+    "Err": 0.0,
+    "RefinedDis": 0.399,
+    "RefinedErr": 0.203,
+    "TotalTime": 51.908801317214966
+  },
+  {
+    "name": "babylonian_squareroot",
+    "task_id": 246,
+    "Failed": "Timeout of 60.0 s. has been hit during disagreement computation"
+  },
+  {
+    "name": "lps",
+    "task_id": 247,
+    "Dis": 0.0,
+    "Err": 0.0,
+    "RefinedDis": 0.0,
+    "RefinedErr": 0.0,
+    "TotalTime": 46.533406257629395
+  },
+  {
+    "name": "harmonic_sum",
+    "task_id": 248,
+    "Dis": 0.0,
+    "Err": 1.0,
+    "RefinedDis": 0.122,
+    "RefinedErr": 0.942,
+    "TotalTime": 41.3101692199707
+  },
+  {
+    "name": "intersection_array",
+    "task_id": 249,
+    "Dis": 0.026,
+    "Err": 0.481,
+    "RefinedDis": 0.227,
+    "RefinedErr": 0.468,
+    "TotalTime": 41.87716841697693
+  },
+  {
+    "name": "count_X",
+    "task_id": 250,
+    "Dis": 0.0,
+    "Err": 0.0,
+    "RefinedDis": 0.0,
+    "RefinedErr": 0.0,
+    "TotalTime": 46.422548055648804
+  },
+  {
+    "name": "insert_element",
+    "task_id": 251,
+    "Dis": 0.0,
+    "Err": 0.0,
+    "RefinedDis": 0.578,
+    "RefinedErr": 0.404,
+    "TotalTime": 44.607181549072266
+  },
+  {
+    "name": "convert",
+    "task_id": 252,
+    "Dis": 0.0,
+    "Err": 1.0,
+    "RefinedDis": 0.614,
+    "RefinedErr": 0.711,
+    "TotalTime": 44.979981660842896
+  },
+  {
+    "name": "count_integer",
+    "task_id": 253,
+    "Dis": 0.0,
+    "Err": 0.0,
+    "RefinedDis": 0.0,
+    "RefinedErr": 0.0,
+    "TotalTime": 43.43432354927063
+  },
+  {
+    "name": "combinations_colors",
+    "task_id": 255,
+    "Failed": "Timeout of 60.0 s. has been hit during disagreement computation"
+  },
+  {
+    "name": "count_Primes_nums",
+    "task_id": 256,
+    "Dis": 0.0,
+    "Err": 0.0,
+    "RefinedDis": 0.07,
+    "RefinedErr": 0.044,
+    "TotalTime": 49.24051380157471
+  },
+  {
+    "name": "swap_numbers",
+    "task_id": 257,
+    "Dis": 0.0,
+    "Err": 0.0,
+    "RefinedDis": 0.0,
+    "RefinedErr": 0.0,
+    "TotalTime": 50.15099573135376
+  },
+  {
+    "name": "maximize_elements",
+    "task_id": 259,
+    "Dis": 0.365,
+    "Err": 0.958,
+    "RefinedDis": 0.719,
+    "RefinedErr": 0.999,
+    "TotalTime": 43.2179651260376
+  },
+  {
+    "name": "newman_prime",
+    "task_id": 260,
+    "Failed": "Timeout of 60.0 s. has been hit during disagreement computation"
+  },
+  {
+    "name": "division_elements",
+    "task_id": 261,
+    "Dis": 0.291,
+    "Err": 0.976,
+    "RefinedDis": 0.353,
+    "RefinedErr": 0.973,
+    "TotalTime": 47.00481677055359
+  },
+  {
+    "name": "split_two_parts",
+    "task_id": 262,
+    "Dis": 0.409,
+    "Err": 0.234,
+    "RefinedDis": 0.0,
+    "RefinedErr": 1.0,
+    "TotalTime": 49.9757194519043
+  },
+  {
+    "name": "dog_age",
+    "task_id": 264,
+    "Failed": "Timeout of 60.0 s. has been hit during disagreement computation"
+  },
+  {
+    "name": "list_split",
+    "task_id": 265,
+    "Dis": 0.0,
+    "Err": 0.615,
+    "RefinedDis": 0.0,
+    "RefinedErr": 1.0,
+    "TotalTime": 47.366830587387085
+  },
+  {
+    "name": "lateralsurface_cube",
+    "task_id": 266,
+    "Dis": 0.22,
+    "Err": 0.138,
+    "RefinedDis": 0.2,
+    "RefinedErr": 0.136,
+    "TotalTime": 44.952441692352295
+  },
+  {
+    "name": "square_Sum",
+    "task_id": 267,
+    "Dis": 0.0,
+    "Err": 0.38,
+    "RefinedDis": 0.21,
+    "RefinedErr": 0.513,
+    "TotalTime": 57.22836518287659
+  },
+  {
+    "name": "find_star_num",
+    "task_id": 268,
+    "Failed": "Timeout of 60.0 s. has been hit during disagreement computation"
+  },
+  {
+    "name": "ascii_value",
+    "task_id": 269,
+    "Dis": 0.0,
+    "Err": 0.0,
+    "RefinedDis": 0.0,
+    "RefinedErr": 0.0,
+    "TotalTime": 41.90144181251526
+  },
+  {
+    "name": "sum_even_and_even_index",
+    "task_id": 270,
+    "Dis": 0.051,
+    "Err": 0.029,
+    "RefinedDis": 0.073,
+    "RefinedErr": 0.067,
+    "TotalTime": 47.072789907455444
+  },
+  {
+    "name": "even_Power_Sum",
+    "task_id": 271,
+    "Dis": 0.0,
+    "Err": 0.0,
+    "RefinedDis": 0.189,
+    "RefinedErr": 0.462,
+    "TotalTime": 51.04662299156189
+  },
+  {
+    "name": "rear_extract",
+    "task_id": 272,
+    "Dis": 0.0,
+    "Err": 0.0,
+    "RefinedDis": 0.305,
+    "RefinedErr": 0.152,
+    "TotalTime": 46.74799561500549
+  },
+  {
+    "name": "substract_elements",
+    "task_id": 273,
+    "Dis": 0.0,
+    "Err": 0.0,
+    "RefinedDis": 0.148,
+    "RefinedErr": 0.074,
+    "TotalTime": 48.7737455368042
+  },
+  {
+    "name": "even_binomial_Coeff_Sum",
+    "task_id": 274,
+    "Dis": 0.0,
+    "Err": 0.0,
+    "RefinedDis": 0.164,
+    "RefinedErr": 0.084,
+    "TotalTime": 43.50733494758606
+  },
+  {
+    "name": "volume_cylinder",
+    "task_id": 276,
+    "Dis": 0.0,
+    "Err": 0.0,
+    "RefinedDis": 0.343,
+    "RefinedErr": 0.361,
+    "TotalTime": 49.593780517578125
+  },
+  {
+    "name": "dict_filter",
+    "task_id": 277,
+    "Dis": 0.0,
+    "Err": 0.0,
+    "RefinedDis": 0.0,
+    "RefinedErr": 0.0,
+    "TotalTime": 45.561859369277954
+  },
+  {
+    "name": "count_first_elements",
+    "task_id": 278,
+    "Dis": 0.5,
+    "Err": 0.795,
+    "RefinedDis": 0.0,
+    "RefinedErr": 1.0,
+    "TotalTime": 45.85443711280823
+  },
+  {
+    "name": "is_num_decagonal",
+    "task_id": 279,
+    "Dis": 0.613,
+    "Err": 0.988,
+    "RefinedDis": 0.363,
+    "RefinedErr": 0.953,
+    "TotalTime": 46.48871946334839
+  },
+  {
+    "name": "sequential_search",
+    "task_id": 280,
+    "Dis": 0.0,
+    "Err": 0.889,
+    "RefinedDis": 0.0,
+    "RefinedErr": 0.895,
+    "TotalTime": 53.732330083847046
+  },
+  {
+    "name": "all_unique",
+    "task_id": 281,
+    "Failed": "Exception occurred during compilation of LLM-generated code -- AttributeError : 'set' object has no attribute 'items'"
+  },
+  {
+    "name": "sub_list",
+    "task_id": 282,
+    "Dis": 0.31,
+    "Err": 0.242,
+    "RefinedDis": 0.16,
+    "RefinedErr": 0.064,
+    "TotalTime": 44.98202729225159
+  },
+  {
+    "name": "validate",
+    "task_id": 283,
+    "Dis": 0.039,
+    "Err": 0.014,
+    "RefinedDis": 0.0,
+    "RefinedErr": 1.0,
+    "TotalTime": 51.47299242019653
+  },
+  {
+    "name": "check_element",
+    "task_id": 284,
+    "Dis": 0.0,
+    "Err": 0.0,
+    "RefinedDis": 0.0,
+    "RefinedErr": 1.0,
+    "TotalTime": 48.75285840034485
+  },
+  {
+    "name": "text_match_two_three",
+    "task_id": 285,
+    "Dis": 0.029,
+    "Err": 0.012,
+    "RefinedDis": 0.014,
+    "RefinedErr": 0.013,
+    "TotalTime": 47.58280873298645
+  },
+  {
+    "name": "max_sub_array_sum_repeated",
+    "task_id": 286,
+    "Dis": 0.77,
+    "Err": 0.902,
+    "RefinedDis": 0.832,
+    "RefinedErr": 0.933,
+    "TotalTime": 54.97963571548462
+  },
+  {
+    "name": "square_Sum",
+    "task_id": 287,
+    "Dis": 0.188,
+    "Err": 0.454,
+    "RefinedDis": 0.0,
+    "RefinedErr": 0.368,
+    "TotalTime": 48.80660820007324
+  },
+  {
+    "name": "max_length",
+    "task_id": 290,
+    "Dis": 0.346,
+    "Err": 1.0,
+    "RefinedDis": 0.446,
+    "RefinedErr": 1.0,
+    "TotalTime": 44.577712535858154
+  },
+  {
+    "name": "count_no_of_ways",
+    "task_id": 291,
+    "Dis": 0.0,
+    "Err": 0.635,
+    "Failed": "An exception (PicklingError : Can't pickle <functools._lru_cache_wrapper object at 0x000002280B3137F0>: attribute lookup count_no_of_ways on __main__ failed) occurred during refined disagreement computation"
+  },
+  {
+    "name": "find",
+    "task_id": 292,
+    "Dis": 0.0,
+    "Err": 0.0,
+    "RefinedDis": 0.098,
+    "RefinedErr": 0.056,
+    "TotalTime": 46.244590044021606
+  },
+  {
+    "name": "otherside_rightangle",
+    "task_id": 293,
+    "Dis": 0.0,
+    "Err": 0.0,
+    "RefinedDis": 0.0,
+    "RefinedErr": 0.578,
+    "TotalTime": 48.09654760360718
+  },
+  {
+    "name": "max_val",
+    "task_id": 294,
+    "Dis": 0.001,
+    "Err": 0.967,
+    "RefinedDis": 0.347,
+    "RefinedErr": 0.985,
+    "TotalTime": 49.04671812057495
+  },
+  {
+    "name": "sum_div",
+    "task_id": 295,
+    "Dis": 0.13,
+    "Err": 0.916,
+    "RefinedDis": 0.131,
+    "RefinedErr": 0.908,
+    "TotalTime": 48.739423513412476
+  },
+  {
+    "name": "get_Inv_Count",
+    "task_id": 296,
+    "Dis": 0.735,
+    "Err": 0.738,
+    "RefinedDis": 0.488,
+    "RefinedErr": 0.356,
+    "TotalTime": 56.242483377456665
+  },
+  {
+    "name": "flatten_list",
+    "task_id": 297,
+    "Dis": 0.0,
+    "Err": 0.0,
+    "RefinedDis": 0.041,
+    "RefinedErr": 0.027,
+    "TotalTime": 45.71513557434082
+  },
+  {
+    "name": "max_aggregate",
+    "task_id": 299,
+    "Dis": 0.527,
+    "Err": 1.0,
+    "RefinedDis": 0.201,
+    "RefinedErr": 1.0,
+    "TotalTime": 50.27734637260437
+  },
+  {
+    "name": "count_binary_seq",
+    "task_id": 300,
+    "Failed": "Timeout of 60.0 s. has been hit during disagreement computation"
+  },
+  {
+    "name": "dict_depth",
+    "task_id": 301,
+    "Dis": 0.401,
+    "Err": 0.716,
+    "RefinedDis": 0.547,
+    "RefinedErr": 0.43,
+    "TotalTime": 48.90932655334473
+  },
+  {
+    "name": "find_Element",
+    "task_id": 304,
+    "Dis": 0.525,
+    "Err": 0.386,
+    "RefinedDis": 0.209,
+    "RefinedErr": 1.0,
+    "TotalTime": 52.51159310340881
+  },
+  {
+    "name": "start_withp",
+    "task_id": 305,
+    "Dis": 0.481,
+    "Err": 0.918,
+    "RefinedDis": 0.744,
+    "RefinedErr": 0.913,
+    "TotalTime": 44.93046522140503
+  },
+  {
+    "name": "max_sum_increasing_subseq",
+    "task_id": 306,
+    "Dis": 0.61,
+    "Err": 0.971,
+    "RefinedDis": 0.572,
+    "RefinedErr": 0.969,
+    "TotalTime": 85.47394108772278
+  },
+  {
+    "name": "colon_tuplex",
+    "task_id": 307,
+    "Dis": 0.001,
+    "Err": 1.0,
+    "RefinedDis": 0.357,
+    "RefinedErr": 1.0,
+    "TotalTime": 66.70930123329163
+  },
+  {
+    "name": "large_product",
+    "task_id": 308,
+    "Dis": 0.655,
+    "Err": 0.433,
+    "RefinedDis": 0.576,
+    "RefinedErr": 0.417,
+    "TotalTime": 50.128920793533325
+  },
+  {
+    "name": "maximum",
+    "task_id": 309,
+    "Dis": 0.0,
+    "Err": 0.0,
+    "RefinedDis": 0.566,
+    "RefinedErr": 0.505,
+    "TotalTime": 44.672502279281616
+  },
+  {
+    "name": "string_to_tuple",
+    "task_id": 310,
+    "Dis": 0.0,
+    "Err": 0.399,
+    "RefinedDis": 0.152,
+    "RefinedErr": 0.434,
+    "TotalTime": 43.34355854988098
+  },
+  {
+    "name": "set_left_most_unset_bit",
+    "task_id": 311,
+    "Failed": "Timeout of 60.0 s. has been hit during disagreement computation"
+  },
+  {
+    "name": "volume_cone",
+    "task_id": 312,
+    "Dis": 0.0,
+    "Err": 0.0,
+    "RefinedDis": 0.235,
+    "RefinedErr": 0.18,
+    "TotalTime": 48.57615828514099
+  },
+  {
+    "name": "highest_Power_of_2",
+    "task_id": 388,
+    "Dis": 0.0,
+    "Err": 0.178,
+    "RefinedDis": 0.176,
+    "RefinedErr": 0.132,
+    "TotalTime": 50.088244676589966
+  },
+  {
+    "name": "find_lucas",
+    "task_id": 389,
+    "Failed": "Timeout of 60.0 s. has been hit during disagreement computation"
+  },
+  {
+    "name": "add_string",
+    "task_id": 390,
+    "Dis": 0.0,
+    "Err": 0.0,
+    "RefinedDis": 0.202,
+    "RefinedErr": 0.089,
+    "TotalTime": 47.12332892417908
+  },
+  {
+    "name": "convert_list_dictionary",
+    "task_id": 391,
+    "Dis": 0.838,
+    "Err": 1.0,
+    "RefinedDis": 0.874,
+    "RefinedErr": 1.0,
+    "TotalTime": 58.81284141540527
+  },
+  {
+    "name": "get_max_sum",
+    "task_id": 392,
+    "Dis": 0.0,
+    "Err": 0.014,
+    "RefinedDis": 0.0,
+    "RefinedErr": 1.0,
+    "TotalTime": 51.411152839660645
+  },
+  {
+    "name": "max_length_list",
+    "task_id": 393,
+    "Dis": 0.001,
+    "Err": 1.0,
+    "RefinedDis": 0.611,
+    "RefinedErr": 1.0,
+    "TotalTime": 47.710081338882446
+  },
+  {
+    "name": "check_distinct",
+    "task_id": 394,
+    "Dis": 0.0,
+    "Err": 0.015,
+    "RefinedDis": 0.009,
+    "RefinedErr": 0.009,
+    "TotalTime": 46.17481231689453
+  },
+  {
+    "name": "first_non_repeating_character",
+    "task_id": 395,
+    "Dis": 0.0,
+    "Err": 0.0,
+    "RefinedDis": 0.188,
+    "RefinedErr": 0.185,
+    "TotalTime": 51.43371915817261
+  },
+  {
+    "name": "check_char",
+    "task_id": 396,
+    "Dis": 0.061,
+    "Err": 1.0,
+    "RefinedDis": 0.099,
+    "RefinedErr": 1.0,
+    "TotalTime": 43.227593421936035
+  },
+  {
+    "name": "median_numbers",
+    "task_id": 397,
+    "Failed": "Exception occurred during compilation of LLM-generated code -- TypeError : Specification.__init__() got an unexpected keyword argument 'score'"
+  },
+  {
+    "name": "sum_of_digits",
+    "task_id": 398,
+    "Dis": 0.5,
+    "Err": 0.416,
+    "RefinedDis": 0.382,
+    "RefinedErr": 0.539,
+    "TotalTime": 41.8775691986084
+  },
+  {
+    "name": "bitwise_xor",
+    "task_id": 399,
+    "Dis": 0.215,
+    "Err": 0.114,
+    "RefinedDis": 0.305,
+    "RefinedErr": 1.0,
+    "TotalTime": 48.27773308753967
+  },
+  {
+    "name": "extract_freq",
+    "task_id": 400,
+    "Dis": 0.0,
+    "Err": 0.18,
+    "RefinedDis": 0.717,
+    "RefinedErr": 0.999,
+    "TotalTime": 44.34680414199829
+  },
+  {
+    "name": "add_nested_tuples",
+    "task_id": 401,
+    "Dis": 0.0,
+    "Err": 0.0,
+    "RefinedDis": 0.577,
+    "RefinedErr": 0.419,
+    "TotalTime": 53.670392751693726
+  },
+  {
+    "name": "minimum",
+    "task_id": 404,
+    "Dis": 0.0,
+    "Err": 0.0,
+    "RefinedDis": 0.52,
+    "RefinedErr": 0.298,
+    "TotalTime": 50.12895226478577
+  },
+  {
+    "name": "check_tuplex",
+    "task_id": 405,
+    "Dis": 0.059,
+    "Err": 0.046,
+    "RefinedDis": 0.0,
+    "RefinedErr": 0.0,
+    "TotalTime": 39.142966985702515
+  },
+  {
+    "name": "find_Parity",
+    "task_id": 406,
+    "Dis": 0.397,
+    "Err": 0.952,
+    "RefinedDis": 0.0,
+    "RefinedErr": 0.495,
+    "TotalTime": 43.93869376182556
+  },
+  {
+    "name": "rearrange_bigger",
+    "task_id": 407,
+    "Dis": 0.516,
+    "Err": 0.636,
+    "RefinedDis": 0.647,
+    "RefinedErr": 0.764,
+    "TotalTime": 52.47452187538147
+  },
+  {
+    "name": "k_smallest_pairs",
+    "task_id": 408,
+    "Dis": 0.461,
+    "Err": 0.698,
+    "RefinedDis": 0.072,
+    "RefinedErr": 0.672,
+    "TotalTime": 48.24628520011902
+  },
+  {
+    "name": "min_product_tuple",
+    "task_id": 409,
+    "Dis": 0.721,
+    "Err": 0.65,
+    "RefinedDis": 0.826,
+    "RefinedErr": 0.647,
+    "TotalTime": 47.02534103393555
+  },
+  {
+    "name": "min_val",
+    "task_id": 410,
+    "Dis": 0.193,
+    "Err": 0.897,
+    "RefinedDis": 0.484,
+    "RefinedErr": 0.957,
+    "TotalTime": 40.91216230392456
+  },
+  {
+    "name": "snake_to_camel",
+    "task_id": 411,
+    "Dis": 0.173,
+    "Err": 0.799,
+    "RefinedDis": 0.652,
+    "RefinedErr": 0.815,
+    "TotalTime": 38.727991342544556
+  },
+  {
+    "name": "remove_odd",
+    "task_id": 412,
+    "Dis": 0.0,
+    "Err": 0.019,
+    "RefinedDis": 0.505,
+    "RefinedErr": 0.533,
+    "TotalTime": 52.29926919937134
+  },
+  {
+    "name": "extract_nth_element",
+    "task_id": 413,
+    "Dis": 0.0,
+    "Err": 0.0,
+    "RefinedDis": 0.623,
+    "RefinedErr": 0.446,
+    "TotalTime": 46.60921621322632
+  },
+  {
+    "name": "overlapping",
+    "task_id": 414,
+    "Dis": 0.0,
+    "Err": 0.0,
+    "RefinedDis": 0.196,
+    "RefinedErr": 0.112,
+    "TotalTime": 45.685834884643555
+  },
+  {
+    "name": "max_Product",
+    "task_id": 415,
+    "Dis": 0.21,
+    "Err": 0.107,
+    "RefinedDis": 0.637,
+    "RefinedErr": 0.43,
+    "TotalTime": 44.638389587402344
+  },
+  {
+    "name": "group_tuples",
+    "task_id": 417,
+    "Dis": 0.18,
+    "Err": 1.0,
+    "RefinedDis": 0.765,
+    "RefinedErr": 0.998,
+    "TotalTime": 43.49009370803833
+  },
+  {
+    "name": "Find_Max",
+    "task_id": 418,
+    "Dis": 0.002,
+    "Err": 0.43,
+    "RefinedDis": 0.714,
+    "RefinedErr": 0.695,
+    "TotalTime": 44.18551826477051
+  },
+  {
+    "name": "round_and_sum",
+    "task_id": 419,
+    "Dis": 0.361,
+    "Err": 0.798,
+    "RefinedDis": 0.356,
+    "RefinedErr": 0.966,
+    "TotalTime": 47.15225958824158
+  },
+  {
+    "name": "cube_Sum",
+    "task_id": 420,
+    "Dis": 0.269,
+    "Err": 0.152,
+    "RefinedDis": 0.493,
+    "RefinedErr": 0.298,
+    "TotalTime": 54.959694623947144
+  },
+  {
+    "name": "concatenate_tuple",
+    "task_id": 421,
+    "Dis": 0.495,
+    "Err": 0.31,
+    "RefinedDis": 0.0,
+    "RefinedErr": 1.0,
+    "TotalTime": 44.20509958267212
+  },
+  {
+    "name": "find_Average_Of_Cube",
+    "task_id": 422,
+    "Dis": 0.314,
+    "Err": 0.219,
+    "RefinedDis": 0.318,
+    "RefinedErr": 0.313,
+    "TotalTime": 51.18907904624939
+  },
+  {
+    "name": "extract_rear",
+    "task_id": 424,
+    "Dis": 0.006,
+    "Err": 0.006,
+    "RefinedDis": 0.664,
+    "RefinedErr": 0.512,
+    "TotalTime": 43.14415001869202
+  },
+  {
+    "name": "count_element_in_list",
+    "task_id": 425,
+    "Dis": 0.0,
+    "Err": 0.0,
+    "RefinedDis": 0.515,
+    "RefinedErr": 0.327,
+    "TotalTime": 47.978981494903564
+  },
+  {
+    "name": "filter_oddnumbers",
+    "task_id": 426,
+    "Dis": 0.0,
+    "Err": 0.0,
+    "RefinedDis": 0.384,
+    "RefinedErr": 0.212,
+    "TotalTime": 42.82598948478699
+  },
+  {
+    "name": "change_date_format",
+    "task_id": 427,
+    "Dis": 0.533,
+    "Err": 0.923,
+    "RefinedDis": 0.561,
+    "RefinedErr": 0.948,
+    "TotalTime": 44.998180627822876
+  },
+  {
+    "name": "shell_sort",
+    "task_id": 428,
+    "Dis": 0.182,
+    "Err": 0.907,
+    "RefinedDis": 0.0,
+    "RefinedErr": 1.0,
+    "TotalTime": 55.36257004737854
+  },
+  {
+    "name": "and_tuples",
+    "task_id": 429,
+    "Dis": 0.302,
+    "Err": 0.886,
+    "RefinedDis": 0.587,
+    "RefinedErr": 0.677,
+    "TotalTime": 46.63732194900513
+  },
+  {
+    "name": "parabola_directrix",
+    "task_id": 430,
+    "Dis": 0.371,
+    "Err": 1.0,
+    "RefinedDis": 0.63,
+    "RefinedErr": 1.0,
+    "TotalTime": 48.05854845046997
+  },
+  {
+    "name": "common_element",
+    "task_id": 431,
+    "Dis": 0.0,
+    "Err": 0.726,
+    "RefinedDis": 0.0,
+    "RefinedErr": 1.0,
+    "TotalTime": 46.19875979423523
+  },
+  {
+    "name": "median_trapezium",
+    "task_id": 432,
+    "Dis": 0.0,
+    "Err": 0.0,
+    "RefinedDis": 0.332,
+    "RefinedErr": 0.2,
+    "TotalTime": 72.49687218666077
+  },
+  {
+    "name": "check_greater",
+    "task_id": 433,
+    "Dis": 0.0,
+    "Err": 0.0,
+    "RefinedDis": 0.0,
+    "RefinedErr": 0.0,
+    "TotalTime": 47.299174308776855
+  },
+  {
+    "name": "text_match_one",
+    "task_id": 434,
+    "Dis": 0.0,
+    "Err": 0.0,
+    "RefinedDis": 0.043,
+    "RefinedErr": 0.038,
+    "TotalTime": 46.887428760528564
+  },
+  {
+    "name": "last_Digit",
+    "task_id": 435,
+    "Dis": 0.019,
+    "Err": 0.017,
+    "RefinedDis": 0.213,
+    "RefinedErr": 0.115,
+    "TotalTime": 42.670210123062134
+  },
+  {
+    "name": "neg_nos",
+    "task_id": 436,
+    "Dis": 0.0,
+    "Err": 0.0,
+    "RefinedDis": 0.06,
+    "RefinedErr": 0.028,
+    "TotalTime": 42.66421627998352
+  },
+  {
+    "name": "remove_odd",
+    "task_id": 437,
+    "Dis": 0.0,
+    "Err": 0.963,
+    "RefinedDis": 0.0,
+    "RefinedErr": 0.966,
+    "TotalTime": 44.74132561683655
+  },
+  {
+    "name": "count_bidirectional",
+    "task_id": 438,
+    "Dis": 0.458,
+    "Err": 0.693,
+    "RefinedDis": 0.656,
+    "RefinedErr": 0.82,
+    "TotalTime": 41.29296946525574
+  },
+  {
+    "name": "multiple_to_single",
+    "task_id": 439,
+    "Dis": 0.0,
+    "Err": 0.0,
+    "RefinedDis": 0.77,
+    "RefinedErr": 0.619,
+    "TotalTime": 46.475412368774414
+  },
+  {
+    "name": "find_adverb_position",
+    "task_id": 440,
+    "Dis": 0.0,
+    "Err": 1.0,
+    "RefinedDis": 0.461,
+    "RefinedErr": 1.0,
+    "TotalTime": 42.700737953186035
+  },
+  {
+    "name": "surfacearea_cube",
+    "task_id": 441,
+    "Dis": 0.162,
+    "Err": 0.29,
+    "RefinedDis": 0.0,
+    "RefinedErr": 0.362,
+    "TotalTime": 54.24923515319824
+  },
+  {
+    "name": "positive_count",
+    "task_id": 442,
+    "Dis": 0.0,
+    "Err": 0.844,
+    "RefinedDis": 0.356,
+    "RefinedErr": 0.921,
+    "TotalTime": 42.195173263549805
+  },
+  {
+    "name": "largest_neg",
+    "task_id": 443,
+    "Dis": 0.0,
+    "Err": 0.712,
+    "RefinedDis": 0.869,
+    "RefinedErr": 0.882,
+    "TotalTime": 47.14589238166809
+  },
+  {
+    "name": "trim_tuple",
+    "task_id": 444,
+    "Failed": "Exception occurred during compilation of LLM-generated code -- TypeError : Specification.__init__() got an unexpected keyword argument 'score'"
+  },
+  {
+    "name": "index_multiplication",
+    "task_id": 445,
+    "Dis": 0.267,
+    "Err": 1.0,
+    "RefinedDis": 0.223,
+    "RefinedErr": 1.0,
+    "TotalTime": 42.42444968223572
+  },
+  {
+    "name": "count_Occurrence",
+    "task_id": 446,
+    "Failed": "Exception occurred during compilation of LLM-generated code -- TypeError : Specification.__init__() got an unexpected keyword argument 'score'"
+  },
+  {
+    "name": "cube_nums",
+    "task_id": 447,
+    "Dis": 0.0,
+    "Err": 0.0,
+    "RefinedDis": 0.0,
+    "RefinedErr": 0.0,
+    "TotalTime": 43.34866666793823
+  },
+  {
+    "name": "cal_sum",
+    "task_id": 448,
+    "Failed": "Timeout of 60.0 s. has been hit during disagreement computation"
+  },
+  {
+    "name": "extract_string",
+    "task_id": 450,
+    "Dis": 0.332,
+    "Err": 0.757,
+    "RefinedDis": 0.607,
+    "RefinedErr": 0.574,
+    "TotalTime": 42.94889760017395
+  },
+  {
+    "name": "remove_whitespaces",
+    "task_id": 451,
+    "Dis": 0.0,
+    "Err": 0.0,
+    "RefinedDis": 0.007,
+    "RefinedErr": 0.004,
+    "TotalTime": 41.49691581726074
+  },
+  {
+    "name": "loss_amount",
+    "task_id": 452,
+    "Dis": 0.0,
+    "Err": 1.0,
+    "RefinedDis": 0.24,
+    "RefinedErr": 1.0,
+    "TotalTime": 44.330718994140625
+  },
+  {
+    "name": "sumofFactors",
+    "task_id": 453,
+    "Dis": 0.0,
+    "Err": 0.013,
+    "RefinedDis": 0.06,
+    "RefinedErr": 0.064,
+    "TotalTime": 45.35969519615173
+  },
+  {
+    "name": "text_match_wordz",
+    "task_id": 454,
+    "Dis": 0.0,
+    "Err": 1.0,
+    "RefinedDis": 0.295,
+    "RefinedErr": 1.0,
+    "TotalTime": 49.61174488067627
+  },
+  {
+    "name": "check_monthnumb_number",
+    "task_id": 455,
+    "Dis": 0.622,
+    "Err": 0.389,
+    "RefinedDis": 0.0,
+    "RefinedErr": 0.0,
+    "TotalTime": 44.21055889129639
+  },
+  {
+    "name": "reverse_string_list",
+    "task_id": 456,
+    "Dis": 0.0,
+    "Err": 0.0,
+    "RefinedDis": 0.657,
+    "RefinedErr": 0.491,
+    "TotalTime": 75.52484345436096
+  },
+  {
+    "name": "Find_Min",
+    "task_id": 457,
+    "Dis": 0.0,
+    "Err": 0.0,
+    "RefinedDis": 0.471,
+    "RefinedErr": 0.322,
+    "TotalTime": 45.29664444923401
+  },
+  {
+    "name": "rectangle_area",
+    "task_id": 458,
+    "Dis": 0.0,
+    "Err": 0.0,
+    "RefinedDis": 0.202,
+    "RefinedErr": 0.504,
+    "TotalTime": 52.352197885513306
+  },
+  {
+    "name": "remove_uppercase",
+    "task_id": 459,
+    "Failed": "Exception occurred during compilation of LLM-generated code -- AttributeError : 'set' object has no attribute 'items'"
+  },
+  {
+    "name": "Extract",
+    "task_id": 460,
+    "Dis": 0.0,
+    "Err": 0.0,
+    "RefinedDis": 0.0,
+    "RefinedErr": 0.0,
+    "TotalTime": 51.65973258018494
+  },
+  {
+    "name": "upper_ctr",
+    "task_id": 461,
+    "Dis": 0.0,
+    "Err": 0.618,
+    "RefinedDis": 0.063,
+    "RefinedErr": 0.642,
+    "TotalTime": 43.7163610458374
+  },
+  {
+    "name": "combinations_list",
+    "task_id": 462,
+    "Dis": 0.2,
+    "Err": 1.0,
+    "RefinedDis": 0.682,
+    "RefinedErr": 1.0,
+    "TotalTime": 51.1788330078125
+  },
+  {
+    "name": "max_subarray_product",
+    "task_id": 463,
+    "Dis": 0.0,
+    "Err": 0.004,
+    "RefinedDis": 0.0,
+    "RefinedErr": 0.001,
+    "TotalTime": 44.305384397506714
+  },
+  {
+    "name": "check_value",
+    "task_id": 464,
+    "Dis": 0.122,
+    "Err": 0.109,
+    "RefinedDis": 0.586,
+    "RefinedErr": 0.502,
+    "TotalTime": 47.33388614654541
+  },
+  {
+    "name": "drop_empty",
+    "task_id": 465,
+    "Dis": 0.0,
+    "Err": 0.216,
+    "RefinedDis": 0.429,
+    "RefinedErr": 0.341,
+    "TotalTime": 42.807924032211304
+  },
+  {
+    "name": "max_product",
+    "task_id": 468,
+    "Dis": 0.598,
+    "Err": 0.813,
+    "RefinedDis": 0.691,
+    "RefinedErr": 0.817,
+    "TotalTime": 51.594465255737305
+  },
+  {
+    "name": "add_pairwise",
+    "task_id": 470,
+    "Dis": 0.466,
+    "Err": 0.282,
+    "RefinedDis": 0.197,
+    "RefinedErr": 0.097,
+    "TotalTime": 40.89574718475342
+  },
+  {
+    "name": "find_remainder",
+    "task_id": 471,
+    "Dis": 0.005,
+    "Err": 0.024,
+    "RefinedDis": 0.001,
+    "RefinedErr": 0.026,
+    "TotalTime": 39.83505415916443
+  },
+  {
+    "name": "check_Consecutive",
+    "task_id": 472,
+    "Dis": 0.0,
+    "Err": 0.001,
+    "RefinedDis": 0.06,
+    "RefinedErr": 0.03,
+    "TotalTime": 40.6443088054657
+  },
+  {
+    "name": "tuple_intersection",
+    "task_id": 473,
+    "Dis": 0.2,
+    "Err": 1.0,
+    "RefinedDis": 0.496,
+    "RefinedErr": 1.0,
+    "TotalTime": 45.866302251815796
+  },
+  {
+    "name": "replace_char",
+    "task_id": 474,
+    "Dis": 0.0,
+    "Err": 0.0,
+    "RefinedDis": 0.174,
+    "RefinedErr": 0.085,
+    "TotalTime": 44.3088641166687
+  },
+  {
+    "name": "sort_counter",
+    "task_id": 475,
+    "Dis": 0.501,
+    "Err": 1.0,
+    "RefinedDis": 0.497,
+    "RefinedErr": 0.987,
+    "TotalTime": 41.84684181213379
+  },
+  {
+    "name": "big_sum",
+    "task_id": 476,
+    "Dis": 0.001,
+    "Err": 0.001,
+    "RefinedDis": 0.001,
+    "RefinedErr": 0.001,
+    "TotalTime": 48.980226278305054
+  },
+  {
+    "name": "is_lower",
+    "task_id": 477,
+    "Dis": 0.0,
+    "Err": 0.0,
+    "RefinedDis": 0.514,
+    "RefinedErr": 0.303,
+    "TotalTime": 45.35525822639465
+  },
+  {
+    "name": "remove_lowercase",
+    "task_id": 478,
+    "Dis": 0.361,
+    "Err": 0.293,
+    "RefinedDis": 0.717,
+    "RefinedErr": 0.669,
+    "TotalTime": 42.14922094345093
+  },
+  {
+    "name": "first_Digit",
+    "task_id": 479,
+    "Dis": 0.0,
+    "Err": 0.0,
+    "RefinedDis": 0.654,
+    "RefinedErr": 0.636,
+    "TotalTime": 38.740129709243774
+  },
+  {
+    "name": "Split",
+    "task_id": 554,
+    "Dis": 0.0,
+    "Err": 0.0,
+    "RefinedDis": 0.0,
+    "RefinedErr": 0.0,
+    "TotalTime": 36.66580772399902
+  },
+  {
+    "name": "difference",
+    "task_id": 555,
+    "Dis": 0.0,
+    "Err": 0.387,
+    "RefinedDis": 0.128,
+    "RefinedErr": 0.407,
+    "TotalTime": 41.248398303985596
+  },
+  {
+    "name": "find_Odd_Pair",
+    "task_id": 556,
+    "Dis": 0.0,
+    "Err": 0.0,
+    "RefinedDis": 0.742,
+    "RefinedErr": 0.787,
+    "TotalTime": 46.132097244262695
+  },
+  {
+    "name": "toggle_string",
+    "task_id": 557,
+    "Dis": 0.0,
+    "Err": 0.0,
+    "RefinedDis": 0.0,
+    "RefinedErr": 0.0,
+    "TotalTime": 43.74194836616516
+  },
+  {
+    "name": "digit_distance_nums",
+    "task_id": 558,
+    "Dis": 0.204,
+    "Err": 0.553,
+    "RefinedDis": 0.333,
+    "RefinedErr": 0.565,
+    "TotalTime": 49.33041715621948
+  },
+  {
+    "name": "max_sub_array_sum",
+    "task_id": 559,
+    "Failed": "Exception occurred during compilation of LLM-generated code -- TypeError : Specification.__init__() got an unexpected keyword argument 'score'"
+  },
+  {
+    "name": "union_elements",
+    "task_id": 560,
+    "Dis": 0.0,
+    "Err": 0.749,
+    "RefinedDis": 0.0,
+    "RefinedErr": 0.74,
+    "TotalTime": 48.29424500465393
+  },
+  {
+    "name": "Find_Max_Length",
+    "task_id": 562,
+    "Dis": 0.0,
+    "Err": 0.002,
+    "RefinedDis": 0.521,
+    "RefinedErr": 0.288,
+    "TotalTime": 42.30146074295044
+  },
+  {
+    "name": "extract_values",
+    "task_id": 563,
+    "Dis": 0.0,
+    "Err": 0.0,
+    "Failed": "Timeout of 60.0 s. has been hit during refined disagreement computation"
+  },
+  {
+    "name": "count_Pairs",
+    "task_id": 564,
+    "Dis": 0.0,
+    "Err": 0.0,
+    "RefinedDis": 0.215,
+    "RefinedErr": 0.185,
+    "TotalTime": 41.78419256210327
+  },
+  {
+    "name": "split",
+    "task_id": 565,
+    "Dis": 0.0,
+    "Err": 0.0,
+    "RefinedDis": 0.251,
+    "RefinedErr": 0.157,
+    "TotalTime": 41.57967686653137
+  },
+  {
+    "name": "sum_digits",
+    "task_id": 566,
+    "Dis": 0.014,
+    "Err": 0.067,
+    "RefinedDis": 0.05,
+    "RefinedErr": 0.075,
+    "TotalTime": 51.135889530181885
+  },
+  {
+    "name": "issort_list",
+    "task_id": 567,
+    "Dis": 0.0,
+    "Err": 0.0,
+    "RefinedDis": 0.203,
+    "RefinedErr": 0.116,
+    "TotalTime": 69.72766613960266
+  },
+  {
+    "name": "empty_list",
+    "task_id": 568,
+    "Dis": 0.0,
+    "Err": 0.0,
+    "RefinedDis": 0.0,
+    "RefinedErr": 0.387,
+    "TotalTime": 42.495657205581665
+  },
+  {
+    "name": "sort_sublists",
+    "task_id": 569,
+    "Failed": "Exception occurred during compilation of LLM-generated code -- TypeError : Specification.__init__() got an unexpected keyword argument 'score'"
+  },
+  {
+    "name": "two_unique_nums",
+    "task_id": 572,
+    "Dis": 0.353,
+    "Err": 0.918,
+    "RefinedDis": 0.0,
+    "RefinedErr": 1.0,
+    "TotalTime": 46.73546814918518
+  },
+  {
+    "name": "unique_product",
+    "task_id": 573,
+    "Failed": "Timeout of 60.0 s. has been hit during disagreement computation"
+  },
+  {
+    "name": "surfacearea_cylinder",
+    "task_id": 574,
+    "Dis": 0.227,
+    "Err": 0.111,
+    "RefinedDis": 0.0,
+    "RefinedErr": 0.001,
+    "TotalTime": 42.717190980911255
+  },
+  {
+    "name": "is_Sub_Array",
+    "task_id": 576,
+    "Dis": 0.0,
+    "Err": 0.009,
+    "RefinedDis": 0.202,
+    "RefinedErr": 0.127,
+    "TotalTime": 50.70274329185486
+  },
+  {
+    "name": "last_Digit_Factorial",
+    "task_id": 577,
+    "Dis": 0.144,
+    "Err": 0.202,
+    "RefinedDis": 0.073,
+    "RefinedErr": 0.207,
+    "TotalTime": 51.225337266922
+  },
+  {
+    "name": "interleave_lists",
+    "task_id": 578,
+    "Dis": 0.281,
+    "Err": 0.192,
+    "RefinedDis": 0.654,
+    "RefinedErr": 0.521,
+    "TotalTime": 52.78582572937012
+  },
+  {
+    "name": "find_dissimilar",
+    "task_id": 579,
+    "Dis": 0.353,
+    "Err": 0.192,
+    "RefinedDis": 0.816,
+    "RefinedErr": 0.649,
+    "TotalTime": 45.8257794380188
+  },
+  {
+    "name": "extract_even",
+    "task_id": 580,
+    "Dis": 0.594,
+    "Err": 0.468,
+    "RefinedDis": 0.672,
+    "RefinedErr": 0.773,
+    "TotalTime": 46.168612480163574
+  },
+  {
+    "name": "surface_Area",
+    "task_id": 581,
+    "Failed": "Exception occurred during compilation of LLM-generated code -- SyntaxError : '(' was never closed (<string>, line 23)"
+  },
+  {
+    "name": "my_dict",
+    "task_id": 582,
+    "Dis": 0.446,
+    "Err": 0.255,
+    "RefinedDis": 0.14,
+    "RefinedErr": 0.586,
+    "TotalTime": 187.48672318458557
+  },
+  {
+    "name": "catalan_number",
+    "task_id": 583,
+    "Failed": "Timeout of 60.0 s. has been hit during disagreement computation"
+  },
+  {
+    "name": "find_adverbs",
+    "task_id": 584,
+    "Failed": "Exception occurred during compilation of LLM-generated code -- SyntaxError : '(' was never closed (<string>, line 21)"
+  },
+  {
+    "name": "expensive_items",
+    "task_id": 585,
+    "Dis": 0.0,
+    "Err": 0.499,
+    "RefinedDis": 0.0,
+    "RefinedErr": 1.0,
+    "TotalTime": 44.98119902610779
+  },
+  {
+    "name": "split_Arr",
+    "task_id": 586,
+    "Dis": 0.654,
+    "Err": 0.379,
+    "RefinedDis": 0.888,
+    "RefinedErr": 0.755,
+    "TotalTime": 43.696056604385376
+  },
+  {
+    "name": "list_tuple",
+    "task_id": 587,
+    "Dis": 0.0,
+    "Err": 0.0,
+    "RefinedDis": 0.021,
+    "RefinedErr": 0.016,
+    "TotalTime": 45.84935998916626
+  },
+  {
+    "name": "big_diff",
+    "task_id": 588,
+    "Dis": 0.0,
+    "Err": 0.0,
+    "RefinedDis": 0.0,
+    "RefinedErr": 0.0,
+    "TotalTime": 41.012590646743774
+  },
+  {
+    "name": "perfect_squares",
+    "task_id": 589,
+    "Dis": 0.103,
+    "Err": 0.2,
+    "RefinedDis": 0.183,
+    "RefinedErr": 0.185,
+    "TotalTime": 43.98709225654602
+  },
+  {
+    "name": "polar_rect",
+    "task_id": 590,
+    "Dis": 0.465,
+    "Err": 1.0,
+    "RefinedDis": 0.488,
+    "RefinedErr": 1.0,
+    "TotalTime": 46.595000982284546
+  },
+  {
+    "name": "swap_List",
+    "task_id": 591,
+    "Dis": 0.0,
+    "Err": 0.0,
+    "RefinedDis": 0.0,
+    "RefinedErr": 1.0,
+    "TotalTime": 44.443870544433594
+  },
+  {
+    "name": "sum_Of_product",
+    "task_id": 592,
+    "Dis": 0.154,
+    "Err": 0.238,
+    "RefinedDis": 0.495,
+    "RefinedErr": 0.347,
+    "TotalTime": 46.73655891418457
+  },
+  {
+    "name": "removezero_ip",
+    "task_id": 593,
+    "Dis": 0.0,
+    "Err": 0.793,
+    "RefinedDis": 0.519,
+    "RefinedErr": 0.749,
+    "TotalTime": 44.78885579109192
+  },
+  {
+    "name": "diff_even_odd",
+    "task_id": 594,
+    "Dis": 0.01,
+    "Err": 0.018,
+    "RefinedDis": 0.018,
+    "RefinedErr": 0.019,
+    "TotalTime": 44.64972734451294
+  },
+  {
+    "name": "min_Swaps",
+    "task_id": 595,
+    "Dis": 0.033,
+    "Err": 0.94,
+    "RefinedDis": 0.647,
+    "RefinedErr": 0.819,
+    "TotalTime": 43.30871105194092
+  },
+  {
+    "name": "tuple_size",
+    "task_id": 596,
+    "Dis": 0.21,
+    "Err": 0.11,
+    "RefinedDis": 0.764,
+    "RefinedErr": 0.792,
+    "TotalTime": 31.355257034301758
+  },
+  {
+    "name": "find_kth",
+    "task_id": 597,
+    "Failed": "Exception occurred during compilation of LLM-generated code -- TimeoutError : "
+  },
+  {
+    "name": "armstrong_number",
+    "task_id": 598,
+    "Dis": 0.0,
+    "Err": 0.0,
+    "RefinedDis": 0.0,
+    "RefinedErr": 0.0,
+    "TotalTime": 31.47453546524048
+  },
+  {
+    "name": "sum_average",
+    "task_id": 599,
+    "Dis": 0.358,
+    "Err": 0.271,
+    "RefinedDis": 0.701,
+    "RefinedErr": 0.742,
+    "TotalTime": 31.70367956161499
+  },
+  {
+    "name": "is_Even",
+    "task_id": 600,
+    "Dis": 0.0,
+    "Err": 0.0,
+    "RefinedDis": 0.0,
+    "RefinedErr": 0.0,
+    "TotalTime": 50.34385895729065
+  },
+  {
+    "name": "first_repeated_char",
+    "task_id": 602,
+    "Dis": 0.0,
+    "Err": 0.0,
+    "RefinedDis": 0.0,
+    "RefinedErr": 0.501,
+    "TotalTime": 63.77269649505615
+  },
+  {
+    "name": "get_ludic",
+    "task_id": 603,
+    "Dis": 0.381,
+    "Err": 0.77,
+    "RefinedDis": 0.888,
+    "RefinedErr": 0.943,
+    "TotalTime": 54.99970483779907
+  },
+  {
+    "name": "reverse_words",
+    "task_id": 604,
+    "Dis": 0.0,
+    "Err": 0.875,
+    "RefinedDis": 0.336,
+    "RefinedErr": 0.886,
+    "TotalTime": 56.251543045043945
+  },
+  {
+    "name": "prime_num",
+    "task_id": 605,
+    "Dis": 0.0,
+    "Err": 0.122,
+    "RefinedDis": 0.334,
+    "RefinedErr": 0.327,
+    "TotalTime": 51.74078011512756
+  },
+  {
+    "name": "radian_degree",
+    "task_id": 606,
+    "Dis": 0.0,
+    "Err": 0.0,
+    "RefinedDis": 0.004,
+    "RefinedErr": 0.0,
+    "TotalTime": 47.99493050575256
+  },
+  {
+    "name": "find_literals",
+    "task_id": 607,
+    "Dis": 0.0,
+    "Err": 0.079,
+    "RefinedDis": 0.0,
+    "RefinedErr": 0.091,
+    "TotalTime": 55.007782220840454
+  },
+  {
+    "name": "bell_Number",
+    "task_id": 608,
+    "Dis": 0.0,
+    "Err": 0.0,
+    "RefinedDis": 0.113,
+    "RefinedErr": 0.066,
+    "TotalTime": 48.8939106464386
+  },
+  {
+    "name": "remove_kth_element",
+    "task_id": 610,
+    "Dis": 0.0,
+    "Err": 0.446,
+    "RefinedDis": 0.403,
+    "RefinedErr": 0.657,
+    "TotalTime": 55.977431535720825
+  },
+  {
+    "name": "max_of_nth",
+    "task_id": 611,
+    "Dis": 0.073,
+    "Err": 0.071,
+    "RefinedDis": 0.279,
+    "RefinedErr": 0.155,
+    "TotalTime": 55.195491313934326
+  },
+  {
+    "name": "merge",
+    "task_id": 612,
+    "Dis": 0.0,
+    "Err": 0.532,
+    "RefinedDis": 0.0,
+    "RefinedErr": 1.0,
+    "TotalTime": 52.20116686820984
+  },
+  {
+    "name": "cummulative_sum",
+    "task_id": 614,
+    "Dis": 0.735,
+    "Err": 1.0,
+    "RefinedDis": 0.603,
+    "RefinedErr": 0.99,
+    "TotalTime": 55.03305435180664
+  },
+  {
+    "name": "average_tuple",
+    "task_id": 615,
+    "Dis": 0.0,
+    "Err": 1.0,
+    "RefinedDis": 0.305,
+    "RefinedErr": 1.0,
+    "TotalTime": 50.440139293670654
+  },
+  {
+    "name": "tuple_modulo",
+    "task_id": 616,
+    "Dis": 0.0,
+    "Err": 0.656,
+    "RefinedDis": 0.116,
+    "RefinedErr": 0.698,
+    "TotalTime": 49.99494934082031
+  },
+  {
+    "name": "min_Jumps",
+    "task_id": 617,
+    "Dis": 0.236,
+    "Err": 0.991,
+    "RefinedDis": 0.105,
+    "RefinedErr": 0.986,
+    "TotalTime": 55.685343742370605
+  },
+  {
+    "name": "div_list",
+    "task_id": 618,
+    "Dis": 0.253,
+    "Err": 0.546,
+    "RefinedDis": 0.749,
+    "RefinedErr": 0.759,
+    "TotalTime": 54.635377645492554
+  },
+  {
+    "name": "move_num",
+    "task_id": 619,
+    "Dis": 0.004,
+    "Err": 0.006,
+    "RefinedDis": 0.012,
+    "RefinedErr": 0.004,
+    "TotalTime": 48.432148694992065
+  },
+  {
+    "name": "largest_subset",
+    "task_id": 620,
+    "Dis": 0.646,
+    "Err": 0.584,
+    "RefinedDis": 0.698,
+    "RefinedErr": 0.566,
+    "TotalTime": 57.87749886512756
+  },
+  {
+    "name": "get_median",
+    "task_id": 622,
+    "Dis": 0.188,
+    "Err": 0.081,
+    "RefinedDis": 0.458,
+    "RefinedErr": 0.994,
+    "TotalTime": 54.10118079185486
+  },
+  {
+    "name": "nth_nums",
+    "task_id": 623,
+    "Dis": 0.0,
+    "Err": 0.0,
+    "RefinedDis": 0.174,
+    "RefinedErr": 0.125,
+    "TotalTime": 54.80712580680847
+  },
+  {
+    "name": "is_upper",
+    "task_id": 624,
+    "Dis": 0.0,
+    "Err": 0.0,
+    "RefinedDis": 0.21,
+    "RefinedErr": 0.095,
+    "TotalTime": 49.191155672073364
+  },
+  {
+    "name": "swap_List",
+    "task_id": 625,
+    "Dis": 0.0,
+    "Err": 0.0,
+    "RefinedDis": 0.593,
+    "RefinedErr": 0.501,
+    "TotalTime": 49.48500895500183
+  },
+  {
+    "name": "triangle_area",
+    "task_id": 626,
+    "Dis": 0.848,
+    "Err": 0.816,
+    "RefinedDis": 0.86,
+    "RefinedErr": 0.77,
+    "TotalTime": 54.20815944671631
+  },
+  {
+    "name": "find_First_Missing",
+    "task_id": 627,
+    "Dis": 0.0,
+    "Err": 0.0,
+    "RefinedDis": 0.0,
+    "RefinedErr": 0.0,
+    "TotalTime": 75.84161615371704
+  },
+  {
+    "name": "replace_spaces",
+    "task_id": 628,
+    "Failed": "Exception occurred during when querying the LLM -- AttributeError : 'set' object has no attribute 'items'"
+  },
+  {
+    "name": "Split",
+    "task_id": 629,
+    "Dis": 0.0,
+    "Err": 0.0,
+    "RefinedDis": 0.213,
+    "RefinedErr": 0.109,
+    "TotalTime": 43.92846632003784
+  },
+  {
+    "name": "get_coordinates",
+    "task_id": 630,
+    "Dis": 0.287,
+    "Err": 1.0,
+    "RefinedDis": 0.771,
+    "RefinedErr": 1.0,
+    "TotalTime": 48.711387157440186
+  },
+  {
+    "name": "replace_spaces",
+    "task_id": 631,
+    "Dis": 0.527,
+    "Err": 0.634,
+    "RefinedDis": 0.16,
+    "RefinedErr": 0.206,
+    "TotalTime": 52.89694333076477
+  },
+  {
+    "name": "move_zero",
+    "task_id": 632,
+    "Dis": 0.362,
+    "Err": 0.182,
+    "RefinedDis": 0.0,
+    "RefinedErr": 1.0,
+    "TotalTime": 47.28528022766113
+  },
+  {
+    "name": "pair_xor_Sum",
+    "task_id": 633,
+    "Dis": 0.0,
+    "Err": 0.0,
+    "RefinedDis": 0.362,
+    "RefinedErr": 0.192,
+    "TotalTime": 49.424450397491455
+  },
+  {
+    "name": "heap_sort",
+    "task_id": 635,
+    "Dis": 0.0,
+    "Err": 0.0,
+    "RefinedDis": 0.638,
+    "RefinedErr": 0.503,
+    "TotalTime": 53.293747901916504
+  },
+  {
+    "name": "noprofit_noloss",
+    "task_id": 637,
+    "Dis": 0.0,
+    "Err": 0.0,
+    "RefinedDis": 0.0,
+    "RefinedErr": 0.0,
+    "TotalTime": 51.75252938270569
+  },
+  {
+    "name": "wind_chill",
+    "task_id": 638,
+    "Dis": 0.23,
+    "Err": 0.447,
+    "RefinedDis": 0.778,
+    "RefinedErr": 0.726,
+    "TotalTime": 50.54719829559326
+  },
+  {
+    "name": "sample_nam",
+    "task_id": 639,
+    "Dis": 0.0,
+    "Err": 0.381,
+    "RefinedDis": 0.0,
+    "RefinedErr": 0.379,
+    "TotalTime": 43.20935416221619
+  },
+  {
+    "name": "remove_parenthesis",
+    "task_id": 640,
+    "Dis": 0.195,
+    "Err": 0.909,
+    "RefinedDis": 0.644,
+    "RefinedErr": 0.964,
+    "TotalTime": 46.42968249320984
+  },
+  {
+    "name": "is_nonagonal",
+    "task_id": 641,
+    "Dis": 0.178,
+    "Err": 0.237,
+    "RefinedDis": 0.119,
+    "RefinedErr": 0.228,
+    "TotalTime": 50.178088903427124
+  },
+  {
+    "name": "text_match_wordz_middle",
+    "task_id": 643,
+    "Dis": 0.241,
+    "Err": 0.116,
+    "RefinedDis": 0.091,
+    "RefinedErr": 0.07,
+    "TotalTime": 58.41826558113098
+  },
+  {
+    "name": "reverse_Array_Upto_K",
+    "task_id": 644,
+    "Failed": "Exception occurred during when querying the LLM -- SyntaxError : positional argument follows keyword argument (<string>, line 25)"
+  },
+  {
+    "name": "add_dict_to_tuple",
+    "task_id": 720,
+    "Dis": 0.0,
+    "Err": 0.0,
+    "RefinedDis": 0.892,
+    "RefinedErr": 0.749,
+    "TotalTime": 62.574233293533325
+  },
+  {
+    "name": "maxAverageOfPath",
+    "task_id": 721,
+    "Dis": 0.366,
+    "Err": 0.179,
+    "RefinedDis": 0.791,
+    "RefinedErr": 0.596,
+    "TotalTime": 61.51669955253601
+  },
+  {
+    "name": "filter_data",
+    "task_id": 722,
+    "Dis": 0.212,
+    "Err": 0.289,
+    "RefinedDis": 0.0,
+    "RefinedErr": 1.0,
+    "TotalTime": 55.238574743270874
+  },
+  {
+    "name": "count_same_pair",
+    "task_id": 723,
+    "Dis": 0.0,
+    "Err": 0.248,
+    "RefinedDis": 0.352,
+    "RefinedErr": 0.372,
+    "TotalTime": 48.826995849609375
+  },
+  {
+    "name": "power_base_sum",
+    "task_id": 724,
+    "Dis": 0.0,
+    "Err": 0.0,
+    "RefinedDis": 0.0,
+    "RefinedErr": 0.0,
+    "TotalTime": 44.197128772735596
+  },
+  {
+    "name": "extract_quotation",
+    "task_id": 725,
+    "Dis": 0.0,
+    "Err": 0.0,
+    "RefinedDis": 0.457,
+    "RefinedErr": 0.81,
+    "TotalTime": 53.592286109924316
+  },
+  {
+    "name": "multiply_elements",
+    "task_id": 726,
+    "Dis": 0.0,
+    "Err": 0.0,
+    "RefinedDis": 0.021,
+    "RefinedErr": 0.005,
+    "TotalTime": 53.47214913368225
+  },
+  {
+    "name": "sum_list",
+    "task_id": 728,
+    "Failed": "Exception occurred during when querying the LLM -- TypeError : Specification.__init__() got an unexpected keyword argument 'score'"
+  },
+  {
+    "name": "consecutive_duplicates",
+    "task_id": 730,
+    "Failed": "Exception occurred during when querying the LLM -- TypeError : Specification.__init__() got an unexpected keyword argument 'score'"
+  },
+  {
+    "name": "lateralsurface_cone",
+    "task_id": 731,
+    "Failed": "Exception occurred during when querying the LLM -- TypeError : Specification.__init__() got an unexpected keyword argument 'score'"
+  },
+  {
+    "name": "replace_specialchar",
+    "task_id": 732,
+    "Dis": 0.0,
+    "Err": 0.0,
+    "RefinedDis": 0.807,
+    "RefinedErr": 0.707,
+    "TotalTime": 46.34282851219177
+  },
+  {
+    "name": "find_first_occurrence",
+    "task_id": 733,
+    "Dis": 0.0,
+    "Err": 0.0,
+    "RefinedDis": 0.331,
+    "RefinedErr": 0.184,
+    "TotalTime": 57.27863264083862
+  },
+  {
+    "name": "sum_Of_Subarray_Prod",
+    "task_id": 734,
+    "Dis": 0.339,
+    "Err": 0.469,
+    "RefinedDis": 0.311,
+    "RefinedErr": 0.471,
+    "TotalTime": 50.44972896575928
+  },
+  {
+    "name": "toggle_middle_bits",
+    "task_id": 735,
+    "Dis": 0.731,
+    "Err": 0.893,
+    "RefinedDis": 0.736,
+    "RefinedErr": 0.676,
+    "TotalTime": 51.73999857902527
+  },
+  {
+    "name": "left_insertion",
+    "task_id": 736,
+    "Dis": 0.0,
+    "Err": 0.126,
+    "RefinedDis": 0.469,
+    "RefinedErr": 0.199,
+    "TotalTime": 57.887661933898926
+  },
+  {
+    "name": "check_str",
+    "task_id": 737,
+    "Dis": 0.0,
+    "Err": 1.0,
+    "RefinedDis": 0.089,
+    "RefinedErr": 1.0,
+    "TotalTime": 48.88355755805969
+  },
+  {
+    "name": "geometric_sum",
+    "task_id": 738,
+    "Dis": 0.199,
+    "Err": 0.871,
+    "RefinedDis": 0.354,
+    "RefinedErr": 0.864,
+    "TotalTime": 55.63821339607239
+  },
+  {
+    "name": "find_Index",
+    "task_id": 739,
+    "Failed": "Timeout of 60.0 s. has been hit during disagreement computation"
+  },
+  {
+    "name": "tuple_to_dict",
+    "task_id": 740,
+    "Dis": 0.0,
+    "Err": 0.0,
+    "RefinedDis": 0.019,
+    "RefinedErr": 0.019,
+    "TotalTime": 58.60826849937439
+  },
+  {
+    "name": "all_Characters_Same",
+    "task_id": 741,
+    "Dis": 0.0,
+    "Err": 0.0,
+    "RefinedDis": 0.0,
+    "RefinedErr": 0.001,
+    "TotalTime": 48.86993336677551
+  },
+  {
+    "name": "area_tetrahedron",
+    "task_id": 742,
+    "Failed": "Exception occurred during when querying the LLM -- TypeError : Specification.__init__() got an unexpected keyword argument 'score'"
+  },
+  {
+    "name": "rotate_right",
+    "task_id": 743,
+    "Dis": 0.504,
+    "Err": 0.661,
+    "RefinedDis": 0.288,
+    "RefinedErr": 0.604,
+    "TotalTime": 48.736284017562866
+  },
+  {
+    "name": "check_none",
+    "task_id": 744,
+    "Dis": 0.0,
+    "Err": 0.0,
+    "RefinedDis": 0.701,
+    "RefinedErr": 0.597,
+    "TotalTime": 47.3511004447937
+  },
+  {
+    "name": "divisible_by_digits",
+    "task_id": 745,
+    "Dis": 0.08,
+    "Err": 0.42,
+    "RefinedDis": 0.261,
+    "RefinedErr": 0.13,
+    "TotalTime": 53.43060541152954
+  },
+  {
+    "name": "sector_area",
+    "task_id": 746,
+    "Dis": 0.0,
+    "Err": 0.0,
+    "RefinedDis": 0.536,
+    "RefinedErr": 0.328,
+    "TotalTime": 51.52956557273865
+  },
+  {
+    "name": "lcs_of_three",
+    "task_id": 747,
+    "Dis": 0.566,
+    "Err": 0.391,
+    "RefinedDis": 0.476,
+    "RefinedErr": 0.909,
+    "TotalTime": 66.70851469039917
+  },
+  {
+    "name": "capital_words_spaces",
+    "task_id": 748,
+    "Dis": 0.264,
+    "Err": 0.23,
+    "RefinedDis": 0.551,
+    "RefinedErr": 0.474,
+    "TotalTime": 54.23531794548035
+  },
+  {
+    "name": "sort_numeric_strings",
+    "task_id": 749,
+    "Dis": 0.585,
+    "Err": 1.0,
+    "RefinedDis": 0.18,
+    "RefinedErr": 1.0,
+    "TotalTime": 50.228538274765015
+  },
+  {
+    "name": "add_tuple",
+    "task_id": 750,
+    "Dis": 0.0,
+    "Err": 1.0,
+    "RefinedDis": 0.494,
+    "RefinedErr": 0.782,
+    "TotalTime": 53.501434564590454
+  },
+  {
+    "name": "check_min_heap",
+    "task_id": 751,
+    "Dis": 0.0,
+    "Err": 0.034,
+    "RefinedDis": 0.084,
+    "RefinedErr": 0.061,
+    "TotalTime": 55.23974919319153
+  },
+  {
+    "name": "jacobsthal_num",
+    "task_id": 752,
+    "Failed": "Exception occurred during when querying the LLM -- TypeError : Specification.__init__() got an unexpected keyword argument 'score'"
+  },
+  {
+    "name": "min_k",
+    "task_id": 753,
+    "Dis": 0.094,
+    "Err": 0.05,
+    "RefinedDis": 0.467,
+    "RefinedErr": 0.37,
+    "TotalTime": 62.72883582115173
+  },
+  {
+    "name": "extract_index_list",
+    "task_id": 754,
+    "Dis": 0.0,
+    "Err": 0.0,
+    "RefinedDis": 0.25,
+    "RefinedErr": 0.565,
+    "TotalTime": 56.72694706916809
+  },
+  {
+    "name": "second_smallest",
+    "task_id": 755,
+    "Dis": 0.036,
+    "Err": 0.023,
+    "RefinedDis": 0.144,
+    "RefinedErr": 0.094,
+    "TotalTime": 52.112507343292236
+  },
+  {
+    "name": "text_match_zero_one",
+    "task_id": 756,
+    "Dis": 0.0,
+    "Err": 0.0,
+    "RefinedDis": 0.045,
+    "RefinedErr": 0.031,
+    "TotalTime": 49.26426911354065
+  },
+  {
+    "name": "count_reverse_pairs",
+    "task_id": 757,
+    "Dis": 0.21,
+    "Err": 0.338,
+    "RefinedDis": 0.354,
+    "RefinedErr": 0.423,
+    "TotalTime": 52.17120027542114
+  },
+  {
+    "name": "unique_sublists",
+    "task_id": 758,
+    "Dis": 0.0,
+    "Err": 0.0,
+    "RefinedDis": 0.116,
+    "RefinedErr": 0.067,
+    "TotalTime": 52.60087704658508
+  },
+  {
+    "name": "is_decimal",
+    "task_id": 759,
+    "Dis": 0.018,
+    "Err": 0.021,
+    "RefinedDis": 0.028,
+    "RefinedErr": 0.025,
+    "TotalTime": 48.26861023902893
+  },
+  {
+    "name": "unique_Element",
+    "task_id": 760,
+    "Dis": 0.0,
+    "Err": 0.0,
+    "RefinedDis": 0.236,
+    "RefinedErr": 0.141,
+    "TotalTime": 51.28602647781372
+  },
+  {
+    "name": "check_monthnumber_number",
+    "task_id": 762,
+    "Dis": 0.187,
+    "Err": 0.086,
+    "RefinedDis": 0.0,
+    "RefinedErr": 0.0,
+    "TotalTime": 44.70654630661011
+  },
+  {
+    "name": "find_min_diff",
+    "task_id": 763,
+    "Dis": 0.0,
+    "Err": 1.0,
+    "RefinedDis": 0.564,
+    "RefinedErr": 1.0,
+    "TotalTime": 53.76208972930908
+  },
+  {
+    "name": "number_ctr",
+    "task_id": 764,
+    "Dis": 0.0,
+    "Err": 0.019,
+    "RefinedDis": 0.027,
+    "RefinedErr": 0.026,
+    "TotalTime": 47.76095724105835
+  },
+  {
+    "name": "is_polite",
+    "task_id": 765,
+    "Failed": "Timeout of 60.0 s. has been hit during disagreement computation"
+  },
+  {
+    "name": "pair_wise",
+    "task_id": 766,
+    "Dis": 0.0,
+    "Err": 0.0,
+    "RefinedDis": 0.088,
+    "RefinedErr": 0.055,
+    "TotalTime": 49.09123659133911
+  },
+  {
+    "name": "get_pairs_count",
+    "task_id": 767,
+    "Dis": 0.004,
+    "Err": 0.015,
+    "RefinedDis": 0.003,
+    "RefinedErr": 0.019,
+    "TotalTime": 51.77689003944397
+  },
+  {
+    "name": "Diff",
+    "task_id": 769,
+    "Dis": 0.0,
+    "Err": 0.955,
+    "RefinedDis": 0.849,
+    "RefinedErr": 0.974,
+    "TotalTime": 49.95578956604004
+  },
+  {
+    "name": "odd_num_sum",
+    "task_id": 770,
+    "Dis": 0.0,
+    "Err": 0.0,
+    "RefinedDis": 0.446,
+    "RefinedErr": 0.492,
+    "TotalTime": 49.51754188537598
+  },
+  {
+    "name": "check_expression",
+    "task_id": 771,
+    "Dis": 0.0,
+    "Err": 0.177,
+    "RefinedDis": 0.117,
+    "RefinedErr": 0.255,
+    "TotalTime": 58.883649826049805
+  },
+  {
+    "name": "remove_length",
+    "task_id": 772,
+    "Dis": 0.0,
+    "Err": 0.0,
+    "RefinedDis": 0.589,
+    "RefinedErr": 0.37,
+    "TotalTime": 50.64783239364624
+  },
+  {
+    "name": "occurance_substring",
+    "task_id": 773,
+    "Dis": 0.061,
+    "Err": 0.082,
+    "RefinedDis": 0.509,
+    "RefinedErr": 0.682,
+    "TotalTime": 45.921966552734375
+  },
+  {
+    "name": "odd_position",
+    "task_id": 775,
+    "Failed": "Exception occurred during when querying the LLM -- SyntaxError : positional argument follows keyword argument (<string>, line 25)"
+  },
+  {
+    "name": "count_vowels",
+    "task_id": 776,
+    "Failed": "Exception occurred during when querying the LLM -- SyntaxError : '(' was never closed (<string>, line 25)"
+  },
+  {
+    "name": "find_sum",
+    "task_id": 777,
+    "Dis": 0.41,
+    "Err": 0.58,
+    "RefinedDis": 0.305,
+    "RefinedErr": 0.191,
+    "TotalTime": 49.37300133705139
+  },
+  {
+    "name": "pack_consecutive_duplicates",
+    "task_id": 778,
+    "Dis": 0.0,
+    "Err": 0.0,
+    "RefinedDis": 0.0,
+    "RefinedErr": 0.0,
+    "TotalTime": 47.52707529067993
+  },
+  {
+    "name": "unique_sublists",
+    "task_id": 779,
+    "Dis": 0.0,
+    "Err": 0.0,
+    "RefinedDis": 0.022,
+    "RefinedErr": 0.019,
+    "TotalTime": 45.61618113517761
+  },
+  {
+    "name": "find_combinations",
+    "task_id": 780,
+    "Dis": 0.784,
+    "Err": 0.998,
+    "RefinedDis": 0.354,
+    "RefinedErr": 0.203,
+    "TotalTime": 56.78437423706055
+  },
+  {
+    "name": "count_divisors",
+    "task_id": 781,
+    "Dis": 0.0,
+    "Err": 0.0,
+    "RefinedDis": 0.612,
+    "RefinedErr": 0.41,
+    "TotalTime": 46.96857690811157
+  },
+  {
+    "name": "odd_length_sum",
+    "task_id": 782,
+    "Dis": 0.0,
+    "Err": 0.0,
+    "RefinedDis": 0.0,
+    "RefinedErr": 0.0,
+    "TotalTime": 50.78650903701782
+  },
+  {
+    "name": "rgb_to_hsv",
+    "task_id": 783,
+    "Dis": 0.649,
+    "Err": 0.469,
+    "RefinedDis": 0.8,
+    "RefinedErr": 0.918,
+    "TotalTime": 50.47832489013672
+  },
+  {
+    "name": "mul_even_odd",
+    "task_id": 784,
+    "Dis": 0.013,
+    "Err": 0.029,
+    "RefinedDis": 0.146,
+    "RefinedErr": 0.09,
+    "TotalTime": 47.98047661781311
+  },
+  {
+    "name": "tuple_str_int",
+    "task_id": 785,
+    "Dis": 0.425,
+    "Err": 0.271,
+    "RefinedDis": 0.593,
+    "RefinedErr": 0.591,
+    "TotalTime": 58.5718994140625
+  },
+  {
+    "name": "right_insertion",
+    "task_id": 786,
+    "Dis": 0.058,
+    "Err": 0.054,
+    "RefinedDis": 0.519,
+    "RefinedErr": 0.326,
+    "TotalTime": 56.135990142822266
+  },
+  {
+    "name": "text_match_three",
+    "task_id": 787,
+    "Dis": 0.007,
+    "Err": 1.0,
+    "RefinedDis": 0.341,
+    "RefinedErr": 1.0,
+    "TotalTime": 47.6866934299469
+  },
+  {
+    "name": "new_tuple",
+    "task_id": 788,
+    "Dis": 0.492,
+    "Err": 0.468,
+    "RefinedDis": 0.678,
+    "RefinedErr": 0.375,
+    "TotalTime": 63.02694869041443
+  },
+  {
+    "name": "even_position",
+    "task_id": 790,
+    "Dis": 0.0,
+    "Err": 0.133,
+    "RefinedDis": 0.0,
+    "RefinedErr": 0.108,
+    "TotalTime": 62.047765254974365
+  },
+  {
+    "name": "remove_nested",
+    "task_id": 791,
+    "Dis": 0.0,
+    "Err": 0.0,
+    "RefinedDis": 0.739,
+    "RefinedErr": 0.683,
+    "TotalTime": 51.86567687988281
+  },
+  {
+    "name": "count_list",
+    "task_id": 792,
+    "Dis": 0.0,
+    "Err": 0.229,
+    "RefinedDis": 0.112,
+    "RefinedErr": 0.092,
+    "TotalTime": 48.74058794975281
+  },
+  {
+    "name": "last",
+    "task_id": 793,
+    "Dis": 0.0,
+    "Err": 0.0,
+    "RefinedDis": 0.55,
+    "RefinedErr": 0.63,
+    "TotalTime": 51.998377561569214
+  },
+  {
+    "name": "text_starta_endb",
+    "task_id": 794,
+    "Dis": 0.001,
+    "Err": 1.0,
+    "RefinedDis": 0.413,
+    "RefinedErr": 1.0,
+    "TotalTime": 54.950419664382935
+  },
+  {
+    "name": "return_sum",
+    "task_id": 796,
+    "Dis": 0.0,
+    "Err": 0.0,
+    "RefinedDis": 0.0,
+    "RefinedErr": 0.0,
+    "TotalTime": 49.444498777389526
+  },
+  {
+    "name": "sum_in_range",
+    "task_id": 797,
+    "Dis": 0.086,
+    "Err": 0.481,
+    "RefinedDis": 0.0,
+    "RefinedErr": 0.421,
+    "TotalTime": 44.74247741699219
+  },
+  {
+    "name": "_sum",
+    "task_id": 798,
+    "Failed": "Exception occurred during when querying the LLM -- SyntaxError : '(' was never closed (<string>, line 21)"
+  },
+  {
+    "name": "left_rotate",
+    "task_id": 799,
+    "Dis": 0.061,
+    "Err": 0.218,
+    "RefinedDis": 0.0,
+    "RefinedErr": 1.0,
+    "TotalTime": 47.282763719558716
+  },
+  {
+    "name": "remove_all_spaces",
+    "task_id": 800,
+    "Failed": "Exception occurred during when querying the LLM -- TypeError : 'float' object cannot be interpreted as an integer"
+  },
+  {
+    "name": "test_three_equal",
+    "task_id": 801,
+    "Dis": 0.358,
+    "Err": 0.251,
+    "RefinedDis": 0.043,
+    "RefinedErr": 0.032,
+    "TotalTime": 52.198591232299805
+  },
+  {
+    "name": "count_rotation",
+    "task_id": 802,
+    "Failed": "Exception occurred during when querying the LLM -- SyntaxError : '(' was never closed (<string>, line 24)"
+  },
+  {
+    "name": "is_perfect_square",
+    "task_id": 803,
+    "Dis": 0.0,
+    "Err": 0.018,
+    "RefinedDis": 0.0,
+    "RefinedErr": 0.018,
+    "TotalTime": 57.51414728164673
+  },
+  {
+    "name": "is_product_even",
+    "task_id": 804,
+    "Dis": 0.0,
+    "Err": 0.161,
+    "RefinedDis": 0.096,
+    "RefinedErr": 0.159,
+    "TotalTime": 46.3617889881134
+  },
+  {
+    "name": "max_sum_list",
+    "task_id": 805,
+    "Dis": 0.0,
+    "Err": 0.0,
+    "RefinedDis": 0.0,
+    "RefinedErr": 0.0,
+    "TotalTime": 48.15870022773743
+  },
+  {
+    "name": "max_run_uppercase",
+    "task_id": 806,
+    "Dis": 0.0,
+    "Err": 0.462,
+    "RefinedDis": 0.267,
+    "RefinedErr": 0.502,
+    "TotalTime": 47.79225564002991
+  },
+  {
+    "name": "first_odd",
+    "task_id": 807,
+    "Dis": 0.0,
+    "Err": 0.046,
+    "RefinedDis": 0.001,
+    "RefinedErr": 0.0,
+    "TotalTime": 44.437664270401
+  },
+  {
+    "name": "check_K",
+    "task_id": 808,
+    "Dis": 0.0,
+    "Err": 0.0,
+    "RefinedDis": 0.491,
+    "RefinedErr": 0.807,
+    "TotalTime": 44.218767166137695
+  },
+  {
+    "name": "check_smaller",
+    "task_id": 809,
+    "Dis": 0.266,
+    "Err": 0.164,
+    "RefinedDis": 0.276,
+    "RefinedErr": 0.583,
+    "TotalTime": 49.33705401420593
+  },
+  {
+    "name": "differ_At_One_Bit_Pos",
+    "task_id": 6,
+    "Failed": "Timeout of 60.0 s. has been hit during disagreement computation"
+  },
+  {
+    "name": "search",
+    "task_id": 119,
+    "Failed": "Timeout of 60.0 s. has been hit during disagreement computation"
+  },
+  {
+    "name": "find_star_num",
+    "task_id": 268,
+    "Failed": "Timeout of 60.0 s. has been hit during disagreement computation"
+  },
+  {
+    "name": "differ_At_One_Bit_Pos",
+    "task_id": 6,
+    "Failed": "Timeout of 60.0 s. has been hit during disagreement computation"
+  },
+  {
+    "name": "search",
+    "task_id": 119,
+    "Failed": "Timeout of 60.0 s. has been hit during disagreement computation"
+  },
+  {
+    "name": "find_star_num",
+    "task_id": 268,
+    "Failed": "Timeout of 60.0 s. has been hit during disagreement computation"
+  },
+  {
+    "name": "count_binary_seq",
+    "task_id": 300,
+    "Failed": "Timeout of 60.0 s. has been hit during disagreement computation"
+  },
+  {
+    "name": "cal_sum",
+    "task_id": 448,
+    "Failed": "Timeout of 60.0 s. has been hit during disagreement computation"
+  },
+  {
+    "name": "remove_uppercase",
+    "task_id": 459,
+    "Failed": "Timeout of 60.0 s. has been hit during disagreement computation"
+  },
+  {
+    "name": "find_kth",
+    "task_id": 597,
+    "Failed": "Exception occurred during compilation of LLM-generated code -- TimeoutError : "
+  },
+  {
+    "name": "find_Index",
+    "task_id": 739,
+    "Failed": "Timeout of 60.0 s. has been hit during disagreement computation"
+  },
+  {
+    "name": "jacobsthal_num",
+    "task_id": 752,
+    "Failed": "Timeout of 60.0 s. has been hit during disagreement computation"
+  },
+  {
+    "name": "is_polite",
+    "task_id": 765,
+    "Failed": "Timeout of 60.0 s. has been hit during disagreement computation"
+  },
+  {
+    "name": "count_rotation",
+    "task_id": 802,
+    "Failed": "Timeout of 60.0 s. has been hit during disagreement computation"
+  }
+]

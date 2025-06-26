@@ -1,0 +1,1 @@
+from difftrust.fuzzer.fuzzer import Fuzzer

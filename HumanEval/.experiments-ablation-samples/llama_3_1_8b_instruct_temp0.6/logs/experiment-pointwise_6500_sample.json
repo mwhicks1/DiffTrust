@@ -1,0 +1,1042 @@
+[
+  {
+    "name": "has_close_elements",
+    "task_id": "HumanEval/0",
+    "Dis": 0.0,
+    "Err": 0.05861538461538462,
+    "TotalTime": 3.691283702850342
+  },
+  {
+    "name": "separate_paren_groups",
+    "task_id": "HumanEval/1",
+    "Dis": 0.7570769230769231,
+    "Err": 0.6450769230769231,
+    "TotalTime": 2.4329473972320557
+  },
+  {
+    "name": "truncate_number",
+    "task_id": "HumanEval/2",
+    "Dis": 0.07769230769230769,
+    "Err": 0.17323076923076924,
+    "TotalTime": 1.8637313842773438
+  },
+  {
+    "name": "below_zero",
+    "task_id": "HumanEval/3",
+    "Dis": 0.0,
+    "Err": 0.0,
+    "TotalTime": 3.2083053588867188
+  },
+  {
+    "name": "mean_absolute_deviation",
+    "task_id": "HumanEval/4",
+    "Dis": 0.0,
+    "Err": 0.0,
+    "TotalTime": 3.3407135009765625
+  },
+  {
+    "name": "intersperse",
+    "task_id": "HumanEval/5",
+    "Dis": 0.038615384615384614,
+    "Err": 0.020307692307692308,
+    "TotalTime": 3.017749786376953
+  },
+  {
+    "name": "parse_nested_parens",
+    "task_id": "HumanEval/6",
+    "Dis": 0.18861538461538463,
+    "Err": 0.434,
+    "TotalTime": 2.546987295150757
+  },
+  {
+    "name": "filter_by_substring",
+    "task_id": "HumanEval/7",
+    "Dis": 0.0,
+    "Err": 0.0,
+    "TotalTime": 4.756696701049805
+  },
+  {
+    "name": "sum_product",
+    "task_id": "HumanEval/8",
+    "Dis": 0.0,
+    "Err": 0.0,
+    "TotalTime": 3.2641708850860596
+  },
+  {
+    "name": "rolling_max",
+    "task_id": "HumanEval/9",
+    "Dis": 0.046153846153846156,
+    "Err": 0.08923076923076922,
+    "TotalTime": 3.0659544467926025
+  },
+  {
+    "name": "make_palindrome",
+    "task_id": "HumanEval/10",
+    "Dis": 0.7392307692307692,
+    "Err": 0.6404615384615384,
+    "TotalTime": 2.4836690425872803
+  },
+  {
+    "name": "string_xor",
+    "task_id": "HumanEval/11",
+    "Dis": 0.7303076923076923,
+    "Err": 0.7455384615384615,
+    "TotalTime": 3.358185291290283
+  },
+  {
+    "name": "longest",
+    "task_id": "HumanEval/12",
+    "Dis": 0.0,
+    "Err": 0.0,
+    "TotalTime": 3.5703086853027344
+  },
+  {
+    "name": "greatest_common_divisor",
+    "task_id": "HumanEval/13",
+    "Dis": 0.10815384615384616,
+    "Err": 0.1176923076923077,
+    "TotalTime": 2.0271637439727783
+  },
+  {
+    "name": "all_prefixes",
+    "task_id": "HumanEval/14",
+    "Dis": 0.15323076923076923,
+    "Err": 0.08169230769230769,
+    "TotalTime": 2.4335482120513916
+  },
+  {
+    "name": "string_sequence",
+    "task_id": "HumanEval/15",
+    "Dis": 0.0,
+    "Err": 0.0,
+    "TotalTime": 1.9404802322387695
+  },
+  {
+    "name": "count_distinct_characters",
+    "task_id": "HumanEval/16",
+    "Dis": 0.24969230769230769,
+    "Err": 0.1423076923076923,
+    "TotalTime": 2.3712589740753174
+  },
+  {
+    "name": "parse_music",
+    "task_id": "HumanEval/17",
+    "Dis": 0.326,
+    "Err": 0.16846153846153847,
+    "TotalTime": 5.353744029998779
+  },
+  {
+    "name": "how_many_times",
+    "task_id": "HumanEval/18",
+    "Dis": 0.158,
+    "Err": 0.10969230769230769,
+    "TotalTime": 3.014436721801758
+  },
+  {
+    "name": "sort_numbers",
+    "task_id": "HumanEval/19",
+    "Dis": 0.12415384615384616,
+    "Err": 0.06492307692307692,
+    "TotalTime": 7.928360939025879
+  },
+  {
+    "name": "find_closest_elements",
+    "task_id": "HumanEval/20",
+    "Dis": 0.03323076923076923,
+    "Err": 0.03107692307692308,
+    "TotalTime": 3.3525805473327637
+  },
+  {
+    "name": "rescale_to_unit",
+    "task_id": "HumanEval/21",
+    "Dis": 0.0,
+    "Err": 0.0003076923076923077,
+    "TotalTime": 3.387268304824829
+  },
+  {
+    "name": "filter_integers",
+    "task_id": "HumanEval/22",
+    "Dis": 0.0,
+    "Err": 0.0,
+    "TotalTime": 3.1392815113067627
+  },
+  {
+    "name": "strlen",
+    "task_id": "HumanEval/23",
+    "Dis": 0.0,
+    "Err": 0.0,
+    "TotalTime": 2.272658348083496
+  },
+  {
+    "name": "largest_divisor",
+    "task_id": "HumanEval/24",
+    "Dis": 0.07584615384615384,
+    "Err": 0.1753846153846154,
+    "TotalTime": 1.865516185760498
+  },
+  {
+    "name": "factorize",
+    "task_id": "HumanEval/25",
+    "Dis": 0.13676923076923078,
+    "Err": 0.07846153846153846,
+    "TotalTime": 7.10628080368042
+  },
+  {
+    "name": "remove_duplicates",
+    "task_id": "HumanEval/26",
+    "Dis": 0.0,
+    "Err": 0.47123076923076923,
+    "TotalTime": 3.095414638519287
+  },
+  {
+    "name": "flip_case",
+    "task_id": "HumanEval/27",
+    "Dis": 0.0,
+    "Err": 0.0,
+    "TotalTime": 2.396350383758545
+  },
+  {
+    "name": "concatenate",
+    "task_id": "HumanEval/28",
+    "Dis": 0.0,
+    "Err": 0.0,
+    "TotalTime": 4.039976119995117
+  },
+  {
+    "name": "filter_by_prefix",
+    "task_id": "HumanEval/29",
+    "Dis": 0.0,
+    "Err": 0.0,
+    "TotalTime": 5.565868616104126
+  },
+  {
+    "name": "get_positive",
+    "task_id": "HumanEval/30",
+    "Dis": 0.0,
+    "Err": 0.0,
+    "TotalTime": 3.47092866897583
+  },
+  {
+    "name": "is_prime",
+    "task_id": "HumanEval/31",
+    "Dis": 0.0,
+    "Err": 0.0,
+    "TotalTime": 2.994311809539795
+  },
+  {
+    "name": "unique",
+    "task_id": "HumanEval/34",
+    "Dis": 0.0,
+    "Err": 0.0,
+    "TotalTime": 3.49361515045166
+  },
+  {
+    "name": "max_element",
+    "task_id": "HumanEval/35",
+    "Dis": 0.0,
+    "Err": 0.0,
+    "TotalTime": 3.369036912918091
+  },
+  {
+    "name": "sort_even",
+    "task_id": "HumanEval/37",
+    "Dis": 0.3583076923076923,
+    "Err": 0.1946153846153846,
+    "TotalTime": 3.358001470565796
+  },
+  {
+    "name": "triples_sum_to_zero",
+    "task_id": "HumanEval/40",
+    "Dis": 0.10907692307692307,
+    "Err": 0.06338461538461539,
+    "TotalTime": 3.158522129058838
+  },
+  {
+    "name": "car_race_collision",
+    "task_id": "HumanEval/41",
+    "Dis": 0.6956923076923077,
+    "Err": 0.9749230769230769,
+    "TotalTime": 1.7906873226165771
+  },
+  {
+    "name": "incr_list",
+    "task_id": "HumanEval/42",
+    "Dis": 0.0,
+    "Err": 0.0,
+    "TotalTime": 3.4113545417785645
+  },
+  {
+    "name": "pairs_sum_to_zero",
+    "task_id": "HumanEval/43",
+    "Dis": 0.0,
+    "Err": 0.012153846153846154,
+    "TotalTime": 3.140279531478882
+  },
+  {
+    "name": "triangle_area",
+    "task_id": "HumanEval/45",
+    "Dis": 0.0,
+    "Err": 0.0,
+    "TotalTime": 2.0103321075439453
+  },
+  {
+    "name": "fib4",
+    "task_id": "HumanEval/46",
+    "Failed": "Exception occurred during compilation of LLM-generated code -- TimeoutError : "
+  },
+  {
+    "name": "median",
+    "task_id": "HumanEval/47",
+    "Dis": 0.0,
+    "Err": 0.0,
+    "TotalTime": 2.955193519592285
+  },
+  {
+    "name": "is_palindrome",
+    "task_id": "HumanEval/48",
+    "Dis": 0.0021538461538461538,
+    "Err": 0.0015384615384615385,
+    "TotalTime": 2.1840105056762695
+  },
+  {
+    "name": "modp",
+    "task_id": "HumanEval/49",
+    "Dis": 0.07061538461538462,
+    "Err": 0.21107692307692308,
+    "TotalTime": 3.3917808532714844
+  },
+  {
+    "name": "remove_vowels",
+    "task_id": "HumanEval/51",
+    "Dis": 0.218,
+    "Err": 0.11384615384615385,
+    "TotalTime": 2.2366299629211426
+  },
+  {
+    "name": "below_threshold",
+    "task_id": "HumanEval/52",
+    "Dis": 0.005076923076923077,
+    "Err": 0.003384615384615385,
+    "TotalTime": 2.956951141357422
+  },
+  {
+    "name": "add",
+    "task_id": "HumanEval/53",
+    "Dis": 0.0,
+    "Err": 0.0,
+    "TotalTime": 1.9450268745422363
+  },
+  {
+    "name": "same_chars",
+    "task_id": "HumanEval/54",
+    "Dis": 0.0032307692307692306,
+    "Err": 0.002307692307692308,
+    "TotalTime": 2.9054641723632812
+  },
+  {
+    "name": "correct_bracketing",
+    "task_id": "HumanEval/56",
+    "Dis": 0.0,
+    "Err": 0.4113846153846154,
+    "TotalTime": 2.1441922187805176
+  },
+  {
+    "name": "monotonic",
+    "task_id": "HumanEval/57",
+    "Dis": 0.021538461538461538,
+    "Err": 0.01,
+    "TotalTime": 2.8746535778045654
+  },
+  {
+    "name": "common",
+    "task_id": "HumanEval/58",
+    "Dis": 0.21815384615384614,
+    "Err": 0.4983076923076923,
+    "TotalTime": 3.9175894260406494
+  },
+  {
+    "name": "largest_prime_factor",
+    "task_id": "HumanEval/59",
+    "Dis": 0.08538461538461538,
+    "Err": 0.07815384615384616,
+    "TotalTime": 5.548367023468018
+  },
+  {
+    "name": "sum_to_n",
+    "task_id": "HumanEval/60",
+    "Dis": 0.11153846153846154,
+    "Err": 0.16415384615384615,
+    "TotalTime": 1.7432327270507812
+  },
+  {
+    "name": "correct_bracketing",
+    "task_id": "HumanEval/61",
+    "Dis": 0.03584615384615385,
+    "Err": 0.4369230769230769,
+    "TotalTime": 2.168818235397339
+  },
+  {
+    "name": "derivative",
+    "task_id": "HumanEval/62",
+    "Dis": 0.536,
+    "Err": 0.3063076923076923,
+    "TotalTime": 2.672186851501465
+  },
+  {
+    "name": "vowels_count",
+    "task_id": "HumanEval/64",
+    "Dis": 0.03892307692307692,
+    "Err": 0.02123076923076923,
+    "TotalTime": 2.271733522415161
+  },
+  {
+    "name": "circular_shift",
+    "task_id": "HumanEval/65",
+    "Dis": 0.29584615384615387,
+    "Err": 0.3833846153846154,
+    "TotalTime": 1.9368863105773926
+  },
+  {
+    "name": "digitSum",
+    "task_id": "HumanEval/66",
+    "Dis": 0.0,
+    "Err": 0.0,
+    "TotalTime": 2.211933135986328
+  },
+  {
+    "name": "fruit_distribution",
+    "task_id": "HumanEval/67",
+    "Dis": 0.55,
+    "Err": 0.7903076923076923,
+    "TotalTime": 2.8165862560272217
+  },
+  {
+    "name": "pluck",
+    "task_id": "HumanEval/68",
+    "Dis": 0.1733846153846154,
+    "Err": 0.09076923076923077,
+    "TotalTime": 3.058915138244629
+  },
+  {
+    "name": "search",
+    "task_id": "HumanEval/69",
+    "Dis": 0.10892307692307693,
+    "Err": 0.16953846153846153,
+    "TotalTime": 3.870375394821167
+  },
+  {
+    "name": "strange_sort_list",
+    "task_id": "HumanEval/70",
+    "Dis": 0.0,
+    "Err": 0.0,
+    "TotalTime": 2.8521788120269775
+  },
+  {
+    "name": "triangle_area",
+    "task_id": "HumanEval/71",
+    "Dis": 0.0,
+    "Err": 0.0,
+    "TotalTime": 2.2906720638275146
+  },
+  {
+    "name": "will_it_fly",
+    "task_id": "HumanEval/72",
+    "Dis": 0.014461538461538461,
+    "Err": 0.006153846153846154,
+    "TotalTime": 3.3503258228302
+  },
+  {
+    "name": "smallest_change",
+    "task_id": "HumanEval/73",
+    "Dis": 0.6233846153846154,
+    "Err": 0.764,
+    "TotalTime": 2.6767966747283936
+  },
+  {
+    "name": "total_match",
+    "task_id": "HumanEval/74",
+    "Dis": 0.0,
+    "Err": 0.0,
+    "TotalTime": 6.5139148235321045
+  },
+  {
+    "name": "iscube",
+    "task_id": "HumanEval/77",
+    "Dis": 0.4016923076923077,
+    "Err": 0.38953846153846156,
+    "TotalTime": 1.928344964981079
+  },
+  {
+    "name": "hex_key",
+    "task_id": "HumanEval/78",
+    "Dis": 0.21353846153846154,
+    "Err": 0.18169230769230768,
+    "TotalTime": 2.4675285816192627
+  },
+  {
+    "name": "decimal_to_binary",
+    "task_id": "HumanEval/79",
+    "Dis": 0.0,
+    "Err": 0.0,
+    "TotalTime": 1.80525541305542
+  },
+  {
+    "name": "is_happy",
+    "task_id": "HumanEval/80",
+    "Dis": 0.16153846153846155,
+    "Err": 0.08276923076923078,
+    "TotalTime": 2.2656173706054688
+  },
+  {
+    "name": "numerical_letter_grade",
+    "task_id": "HumanEval/81",
+    "Dis": 0.5381538461538462,
+    "Err": 0.49615384615384617,
+    "TotalTime": 3.250373363494873
+  },
+  {
+    "name": "prime_length",
+    "task_id": "HumanEval/82",
+    "Dis": 0.0,
+    "Err": 0.0,
+    "TotalTime": 2.242818832397461
+  },
+  {
+    "name": "starts_one_ends",
+    "task_id": "HumanEval/83",
+    "Dis": 0.8041538461538461,
+    "Err": 0.9895384615384616,
+    "TotalTime": 1.8189432621002197
+  },
+  {
+    "name": "solve",
+    "task_id": "HumanEval/84",
+    "Dis": 0.5363076923076923,
+    "Err": 0.8912307692307693,
+    "TotalTime": 1.7837300300598145
+  },
+  {
+    "name": "add",
+    "task_id": "HumanEval/85",
+    "Dis": 0.0,
+    "Err": 0.0,
+    "TotalTime": 2.825096368789673
+  },
+  {
+    "name": "anti_shuffle",
+    "task_id": "HumanEval/86",
+    "Dis": 0.3263076923076923,
+    "Err": 0.38646153846153847,
+    "TotalTime": 2.3315205574035645
+  },
+  {
+    "name": "get_row",
+    "task_id": "HumanEval/87",
+    "Dis": 0.12184615384615384,
+    "Err": 0.09584615384615384,
+    "TotalTime": 5.094748497009277
+  },
+  {
+    "name": "sort_array",
+    "task_id": "HumanEval/88",
+    "Dis": 0.1666153846153846,
+    "Err": 0.07830769230769231,
+    "TotalTime": 3.175799608230591
+  },
+  {
+    "name": "encrypt",
+    "task_id": "HumanEval/89",
+    "Dis": 0.46676923076923077,
+    "Err": 0.4544615384615385,
+    "TotalTime": 2.3596277236938477
+  },
+  {
+    "name": "next_smallest",
+    "task_id": "HumanEval/90",
+    "Dis": 0.24584615384615385,
+    "Err": 0.17076923076923076,
+    "TotalTime": 3.046077251434326
+  },
+  {
+    "name": "is_bored",
+    "task_id": "HumanEval/91",
+    "Dis": 0.038461538461538464,
+    "Err": 0.14246153846153847,
+    "TotalTime": 2.4502413272857666
+  },
+  {
+    "name": "any_int",
+    "task_id": "HumanEval/92",
+    "Dis": 0.0,
+    "Err": 0.0,
+    "TotalTime": 2.2460122108459473
+  },
+  {
+    "name": "encode",
+    "task_id": "HumanEval/93",
+    "Dis": 0.6363076923076924,
+    "Err": 0.676923076923077,
+    "TotalTime": 2.362900495529175
+  },
+  {
+    "name": "skjkasdkd",
+    "task_id": "HumanEval/94",
+    "Dis": 0.06353846153846154,
+    "Err": 0.07584615384615384,
+    "TotalTime": 3.9000086784362793
+  },
+  {
+    "name": "check_dict_case",
+    "task_id": "HumanEval/95",
+    "Dis": 0.1636923076923077,
+    "Err": 0.11523076923076923,
+    "TotalTime": 3.137028932571411
+  },
+  {
+    "name": "count_up_to",
+    "task_id": "HumanEval/96",
+    "Dis": 0.052,
+    "Err": 0.024615384615384615,
+    "TotalTime": 2.2495157718658447
+  },
+  {
+    "name": "multiply",
+    "task_id": "HumanEval/97",
+    "Dis": 0.0,
+    "Err": 0.0,
+    "TotalTime": 1.9840385913848877
+  },
+  {
+    "name": "count_upper",
+    "task_id": "HumanEval/98",
+    "Dis": 0.11492307692307692,
+    "Err": 0.08184615384615385,
+    "TotalTime": 2.2800657749176025
+  },
+  {
+    "name": "closest_integer",
+    "task_id": "HumanEval/99",
+    "Dis": 0.36815384615384616,
+    "Err": 0.2633846153846154,
+    "TotalTime": 4.958730459213257
+  },
+  {
+    "name": "make_a_pile",
+    "task_id": "HumanEval/100",
+    "Failed": "Timeout of 60.0 s. has been hit during disagreement computation"
+  },
+  {
+    "name": "words_string",
+    "task_id": "HumanEval/101",
+    "Dis": 0.04676923076923077,
+    "Err": 0.021076923076923076,
+    "TotalTime": 2.3164684772491455
+  },
+  {
+    "name": "choose_num",
+    "task_id": "HumanEval/102",
+    "Dis": 0.3364615384615385,
+    "Err": 0.4401538461538462,
+    "TotalTime": 2.7764101028442383
+  },
+  {
+    "name": "rounded_avg",
+    "task_id": "HumanEval/103",
+    "Dis": 0.46092307692307694,
+    "Err": 0.4636923076923077,
+    "TotalTime": 2.241485595703125
+  },
+  {
+    "name": "unique_digits",
+    "task_id": "HumanEval/104",
+    "Dis": 0.0036923076923076922,
+    "Err": 0.0013846153846153845,
+    "TotalTime": 3.440143346786499
+  },
+  {
+    "name": "by_length",
+    "task_id": "HumanEval/105",
+    "Dis": 0.37153846153846154,
+    "Err": 0.27153846153846156,
+    "TotalTime": 3.0336456298828125
+  },
+  {
+    "name": "f",
+    "task_id": "HumanEval/106",
+    "Dis": 0.0,
+    "Err": 0.0,
+    "TotalTime": 2.2790448665618896
+  },
+  {
+    "name": "even_odd_palindrome",
+    "task_id": "HumanEval/107",
+    "Dis": 0.0,
+    "Err": 0.0,
+    "TotalTime": 2.1505534648895264
+  },
+  {
+    "name": "count_nums",
+    "task_id": "HumanEval/108",
+    "Dis": 0.46923076923076923,
+    "Err": 0.5189230769230769,
+    "TotalTime": 3.414475202560425
+  },
+  {
+    "name": "move_one_ball",
+    "task_id": "HumanEval/109",
+    "Failed": "Timeout of 60.0 s. has been hit during disagreement computation"
+  },
+  {
+    "name": "exchange",
+    "task_id": "HumanEval/110",
+    "Dis": 0.3232307692307692,
+    "Err": 0.27015384615384613,
+    "TotalTime": 5.4468302726745605
+  },
+  {
+    "name": "histogram",
+    "task_id": "HumanEval/111",
+    "Dis": 0.004615384615384616,
+    "Err": 0.3133846153846154,
+    "TotalTime": 2.373530387878418
+  },
+  {
+    "name": "reverse_delete",
+    "task_id": "HumanEval/112",
+    "Dis": 0.0,
+    "Err": 0.0,
+    "TotalTime": 3.0161619186401367
+  },
+  {
+    "name": "odd_count",
+    "task_id": "HumanEval/113",
+    "Dis": 0.7673846153846153,
+    "Err": 0.584,
+    "TotalTime": 5.672149658203125
+  },
+  {
+    "name": "minSubArraySum",
+    "task_id": "HumanEval/114",
+    "Dis": 0.39353846153846156,
+    "Err": 0.2632307692307692,
+    "TotalTime": 3.268719434738159
+  },
+  {
+    "name": "max_fill",
+    "task_id": "HumanEval/115",
+    "Dis": 0.6210769230769231,
+    "Err": 0.591076923076923,
+    "TotalTime": 5.387502908706665
+  },
+  {
+    "name": "sort_array",
+    "task_id": "HumanEval/116",
+    "Dis": 0.07630769230769231,
+    "Err": 0.039384615384615386,
+    "TotalTime": 3.3855865001678467
+  },
+  {
+    "name": "select_words",
+    "task_id": "HumanEval/117",
+    "Dis": 0.057692307692307696,
+    "Err": 0.048,
+    "TotalTime": 2.843919515609741
+  },
+  {
+    "name": "get_closest_vowel",
+    "task_id": "HumanEval/118",
+    "Dis": 0.45261538461538464,
+    "Err": 0.34184615384615386,
+    "TotalTime": 2.3254055976867676
+  },
+  {
+    "name": "match_parens",
+    "task_id": "HumanEval/119",
+    "Dis": 0.47215384615384615,
+    "Err": 0.4266153846153846,
+    "TotalTime": 4.074146032333374
+  },
+  {
+    "name": "maximum",
+    "task_id": "HumanEval/120",
+    "Dis": 0.11215384615384616,
+    "Err": 0.5535384615384615,
+    "TotalTime": 3.4161267280578613
+  },
+  {
+    "name": "solution",
+    "task_id": "HumanEval/121",
+    "Dis": 0.0,
+    "Err": 0.03076923076923077,
+    "TotalTime": 2.9704244136810303
+  },
+  {
+    "name": "add_elements",
+    "task_id": "HumanEval/122",
+    "Dis": 0.46092307692307694,
+    "Err": 0.36015384615384616,
+    "TotalTime": 3.3387954235076904
+  },
+  {
+    "name": "get_odd_collatz",
+    "task_id": "HumanEval/123",
+    "Failed": "Timeout of 60.0 s. has been hit during disagreement computation"
+  },
+  {
+    "name": "valid_date",
+    "task_id": "HumanEval/124",
+    "Dis": 0.06384615384615384,
+    "Err": 0.05169230769230769,
+    "TotalTime": 2.404811382293701
+  },
+  {
+    "name": "split_words",
+    "task_id": "HumanEval/125",
+    "Dis": 0.6033846153846154,
+    "Err": 0.48846153846153845,
+    "TotalTime": 2.361919403076172
+  },
+  {
+    "name": "is_sorted",
+    "task_id": "HumanEval/126",
+    "Dis": 0.07707692307692307,
+    "Err": 0.08861538461538461,
+    "TotalTime": 3.095874547958374
+  },
+  {
+    "name": "intersection",
+    "task_id": "HumanEval/127",
+    "Dis": 0.24876923076923077,
+    "Err": 0.636,
+    "TotalTime": 7.694284677505493
+  },
+  {
+    "name": "prod_signs",
+    "task_id": "HumanEval/128",
+    "Dis": 0.2266153846153846,
+    "Err": 0.31553846153846155,
+    "TotalTime": 3.2889304161071777
+  },
+  {
+    "name": "minPath",
+    "task_id": "HumanEval/129",
+    "Dis": 0.8813846153846154,
+    "Err": 0.8947692307692308,
+    "TotalTime": 19.872769117355347
+  },
+  {
+    "name": "tri",
+    "task_id": "HumanEval/130",
+    "Dis": 0.8690769230769231,
+    "Err": 0.9844615384615385,
+    "TotalTime": 8.266185283660889
+  },
+  {
+    "name": "digits",
+    "task_id": "HumanEval/131",
+    "Dis": 0.2123076923076923,
+    "Err": 0.1676923076923077,
+    "TotalTime": 1.9246504306793213
+  },
+  {
+    "name": "is_nested",
+    "task_id": "HumanEval/132",
+    "Dis": 0.22,
+    "Err": 0.2570769230769231,
+    "TotalTime": 2.2446272373199463
+  },
+  {
+    "name": "sum_squares",
+    "task_id": "HumanEval/133",
+    "Dis": 0.0,
+    "Err": 0.0,
+    "TotalTime": 3.1153066158294678
+  },
+  {
+    "name": "check_if_last_char_is_a_letter",
+    "task_id": "HumanEval/134",
+    "Dis": 0.2806153846153846,
+    "Err": 0.34292307692307694,
+    "TotalTime": 2.3292829990386963
+  },
+  {
+    "name": "can_arrange",
+    "task_id": "HumanEval/135",
+    "Dis": 0.5047692307692307,
+    "Err": 0.5998461538461538,
+    "TotalTime": 3.170539617538452
+  },
+  {
+    "name": "largest_smallest_integers",
+    "task_id": "HumanEval/136",
+    "Dis": 0.0,
+    "Err": 0.0,
+    "TotalTime": 3.312368154525757
+  },
+  {
+    "name": "compare_one",
+    "task_id": "HumanEval/137",
+    "Dis": 0.4576923076923077,
+    "Err": 0.2836923076923077,
+    "TotalTime": 3.152484655380249
+  },
+  {
+    "name": "is_equal_to_sum_even",
+    "task_id": "HumanEval/138",
+    "Dis": 0.14507692307692308,
+    "Err": 0.11076923076923077,
+    "TotalTime": 18.37491464614868
+  },
+  {
+    "name": "special_factorial",
+    "task_id": "HumanEval/139",
+    "Failed": "Timeout of 60.0 s. has been hit during disagreement computation"
+  },
+  {
+    "name": "fix_spaces",
+    "task_id": "HumanEval/140",
+    "Dis": 0.46015384615384614,
+    "Err": 0.38246153846153846,
+    "TotalTime": 2.3996596336364746
+  },
+  {
+    "name": "file_name_check",
+    "task_id": "HumanEval/141",
+    "Dis": 0.012923076923076923,
+    "Err": 0.007846153846153846,
+    "TotalTime": 2.3008852005004883
+  },
+  {
+    "name": "sum_squares",
+    "task_id": "HumanEval/142",
+    "Dis": 0.6187692307692307,
+    "Err": 0.4856923076923077,
+    "TotalTime": 3.497924566268921
+  },
+  {
+    "name": "words_in_sentence",
+    "task_id": "HumanEval/143",
+    "Dis": 0.09692307692307692,
+    "Err": 0.047538461538461536,
+    "TotalTime": 2.549021005630493
+  },
+  {
+    "name": "simplify",
+    "task_id": "HumanEval/144",
+    "Dis": 0.002,
+    "Err": 0.0016923076923076924,
+    "TotalTime": 94.14560532569885
+  },
+  {
+    "name": "order_by_points",
+    "task_id": "HumanEval/145",
+    "Dis": 0.7523076923076923,
+    "Err": 0.9053846153846153,
+    "TotalTime": 4.212158918380737
+  },
+  {
+    "name": "specialFilter",
+    "task_id": "HumanEval/146",
+    "Dis": 0.15169230769230768,
+    "Err": 0.076,
+    "TotalTime": 3.2700912952423096
+  },
+  {
+    "name": "bf",
+    "task_id": "HumanEval/148",
+    "Dis": 0.2073846153846154,
+    "Err": 0.10246153846153847,
+    "TotalTime": 3.0756068229675293
+  },
+  {
+    "name": "sorted_list_sum",
+    "task_id": "HumanEval/149",
+    "Dis": 0.0,
+    "Err": 0.0,
+    "TotalTime": 4.049154996871948
+  },
+  {
+    "name": "x_or_y",
+    "task_id": "HumanEval/150",
+    "Dis": 0.0,
+    "Err": 0.2210769230769231,
+    "TotalTime": 2.6534013748168945
+  },
+  {
+    "name": "double_the_difference",
+    "task_id": "HumanEval/151",
+    "Dis": 0.2906153846153846,
+    "Err": 0.22184615384615386,
+    "TotalTime": 5.208482027053833
+  },
+  {
+    "name": "compare",
+    "task_id": "HumanEval/152",
+    "Dis": 0.45476923076923076,
+    "Err": 0.47446153846153843,
+    "TotalTime": 5.757558107376099
+  },
+  {
+    "name": "Strongest_Extension",
+    "task_id": "HumanEval/153",
+    "Dis": 0.0,
+    "Err": 0.00015384615384615385,
+    "TotalTime": 5.227368354797363
+  },
+  {
+    "name": "cycpattern_check",
+    "task_id": "HumanEval/154",
+    "Dis": 0.024,
+    "Err": 0.022307692307692306,
+    "TotalTime": 3.22788405418396
+  },
+  {
+    "name": "even_odd_count",
+    "task_id": "HumanEval/155",
+    "Dis": 0.0,
+    "Err": 0.0,
+    "TotalTime": 1.8260836601257324
+  },
+  {
+    "name": "right_angle_triangle",
+    "task_id": "HumanEval/157",
+    "Dis": 0.13446153846153847,
+    "Err": 0.06815384615384615,
+    "TotalTime": 2.252643346786499
+  },
+  {
+    "name": "find_max",
+    "task_id": "HumanEval/158",
+    "Dis": 0.054461538461538464,
+    "Err": 0.062461538461538464,
+    "TotalTime": 3.857405424118042
+  },
+  {
+    "name": "eat",
+    "task_id": "HumanEval/159",
+    "Dis": 0.7067692307692308,
+    "Err": 0.7513846153846154,
+    "TotalTime": 2.3287322521209717
+  },
+  {
+    "name": "solve",
+    "task_id": "HumanEval/161",
+    "Dis": 0.33907692307692305,
+    "Err": 0.21169230769230768,
+    "TotalTime": 2.4301888942718506
+  },
+  {
+    "name": "string_to_md5",
+    "task_id": "HumanEval/162",
+    "Dis": 0.0,
+    "Err": 0.0,
+    "TotalTime": 2.716068983078003
+  },
+  {
+    "name": "generate_integers",
+    "task_id": "HumanEval/163",
+    "Dis": 0.21246153846153845,
+    "Err": 0.842,
+    "TotalTime": 2.313849687576294
+  }
+]

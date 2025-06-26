@@ -1,0 +1,17 @@
+,Configuration,Raw Dis Mean Rank,Raw Err Mean Rank,Errors (Err > 0) Rank,Error Rate (Errors / Total) Rank,Detected Errors (Err > 0 and Dis > 0) Rank,Detection Rate (Detected / Errors) Rank,Confident (Dis = 0) Rank,Confident Rate (Confident / Total) Rank,Confident Errors (Err > 0 and Dis = 0) Rank,Confident Error Rate (Confident Errors / Confident) Rank,Error Mean When Confident Rank,Spearman Rho err vs. diss Rank,model,threshold
+0,gpt_o4_mini_temp0.6_10_candidate,8.0,8.0,11.0,11.0,11.0,7.0,10.0,11.0,11.0,10.0,7.0,6.0,gpt_o4_mini,10
+1,ministral_8b_temp0.6_10_candidate,3.0,14.0,14.0,15.0,12.0,9.0,12.0,12.0,10.0,13.0,15.0,9.0,ministral_8b,10
+2,gemini_2_5_pro_temp0.6_10_candidate,13.0,4.0,5.0,5.0,6.0,8.0,6.0,6.0,8.0,7.0,6.0,7.0,gemini_2_5_pro,10
+3,gpt_4o_temp0.6_10_candidate,6.0,10.0,9.0,9.0,9.0,6.0,8.0,8.0,9.0,9.0,10.0,8.0,gpt_4o,10
+4,deepseek_v3_0324_temp0.6_10_candidate,14.0,5.0,3.0,3.0,3.0,4.0,4.0,3.0,13.0,14.0,12.0,4.0,deepseek_v3_0324,10
+5,gpt_4_turbo_temp0.6_10_candidate,7.0,9.0,10.0,10.0,10.0,12.0,11.0,10.0,7.0,8.0,5.0,10.0,gpt_4_turbo,10
+6,gemini_2_5_flash_temp0.6_10_candidate,11.0,6.0,6.0,7.0,7.0,10.0,9.0,9.0,5.0,3.0,4.0,11.0,gemini_2_5_flash,10
+7,gemini_2_0_flash_lite_temp0.6_10_candidate,12.0,12.0,8.0,8.0,4.0,3.0,3.0,4.0,16.0,16.0,16.0,3.0,gemini_2_0_flash_lite,10
+8,deepseek_r1_temp0.6_10_candidate,10.0,3.0,7.0,6.0,8.0,11.0,7.0,7.0,6.0,2.0,1.0,12.0,deepseek_r1,10
+9,gpt_4_temp0.6_10_candidate,5.0,11.0,15.0,14.0,15.0,14.0,15.0,15.0,3.0,6.0,8.0,13.0,gpt_4,10
+10,llama_3_1_8b_instruct_temp0.6_10_candidate,1.0,16.0,16.0,16.0,16.0,16.0,16.0,16.0,1.0,5.0,2.0,16.0,llama_3_1_8b_instruct,10
+11,gpt_3_5_temp0.6_10_candidate,4.0,15.0,13.0,13.0,14.0,15.0,14.0,14.0,2.0,1.0,9.0,15.0,gpt_3_5,10
+12,claude_sonnet_4_temp0.6_10_candidate,15.0,1.0,2.0,2.0,1.0,1.0,1.0,1.0,15.0,15.0,11.0,2.0,claude_sonnet_4,10
+13,llama_4_maverick_17b_temp0.6_10_candidate,9.0,7.0,4.0,4.0,5.0,5.0,5.0,5.0,12.0,11.0,13.0,5.0,llama_4_maverick_17b,10
+14,llama_3_3_70b_instruct_temp0.6_10_candidate,2.0,13.0,12.0,12.0,13.0,13.0,13.0,13.0,4.0,4.0,3.0,14.0,llama_3_3_70b_instruct,10
+15,claude_opus_4_temp0.6_10_candidate,16.0,2.0,1.0,1.0,2.0,2.0,2.0,2.0,14.0,12.0,14.0,1.0,claude_opus_4,10

@@ -1,0 +1,93 @@
+\documentclass[12pt]{article}%
+\usepackage[T1]{fontenc}%
+\usepackage[utf8]{inputenc}%
+\usepackage{lmodern}%
+\usepackage{textcomp}%
+\usepackage{lastpage}%
+\usepackage{graphicx}%
+%
+%
+%
+\begin{document}%
+\normalsize%
+\section{Incoherence{-}Based Experiment Analysis}%
+\label{sec:Incoherence{-}BasedExperimentAnalysis}%
+This report presents a statistical analysis of the model’s performance across tasks, focusing on the relationship between incoherence scores (Incoherence) and execution errors (Error).%
+\newline%
+\newline%
+Number of tasks analyzed: 412%
+\section{Introduction}%
+\label{sec:Introduction}%
+This report summarizes the results of an automatic evaluation of code generation using the following configuration parameters.%
+\newline%
+\begin{tabular}{ll}%
+\textbf{Parameter}&\textbf{Value}\\%
+\hline%
+Language Model&llama\_3\_1\_8b\_instruct\\%
+Temperature&0.6\\%
+\$m\$ (number of candidates)&10\\%
+\$n\$ (number of samples used to estimate metrics)&1000\\%
+Timeout per metric estimation (s)&60.0\\%
+\end{tabular}%
+\newline%
+The model was tested across a suite of programming tasks. We aim to explore how the model’s incoherence signal relates to execution{-}time failures.
+
+%
+\subsection{Summary Statistics}%
+\label{subsec:SummaryStatistics}%
+\begin{tabular}{lcccc}%
+Metric&Mean&Std&Min&Max\\%
+Raw Incoherence&0.290&0.268&0.000&0.968\\%
+Raw Error&0.387&0.362&0.000&1.000\\%
+\end{tabular}
+
+%
+\subsection{Error Detection Analysis}%
+\label{subsec:ErrorDetectionAnalysis}%
+\begin{tabular}{lc}%
+Metric&Value\\%
+Errors (Error > 0)&353\\%
+Error Rate&85.68\%\\%
+Detected Errors (Error > 0 and Incoherence > 0)&336\\%
+Detection Rate&95.18\%\\%
+Confident (Incoherence = 0)&75\\%
+Confident Error Count&17\\%
+Confident Error Rate&22.67\%\\%
+Mean Error When Confident&0.1092\\%
+\end{tabular}
+
+%
+\subsection{Correlation Analysis}%
+\label{subsec:CorrelationAnalysis}%
+\begin{tabular}{lcccc}%
+Metric&Pearson r&Pearson p&Spearman \$\textbackslash{}rho\$&Spearman p\\%
+Incoherence vs Error&0.640&9.015e{-}49&0.712&5.029e{-}65\\%
+\end{tabular}
+
+%
+\newpage%
+\subsection{Bubble Plot of Incoherence and Error}%
+\label{subsec:BubblePlotofIncoherenceandError}%
+This plot shows the density of (Incoherence, Error) points using bubble size to indicate frequency.%
+
+
+\begin{figure}[htbp]%
+\centering%
+\includegraphics[width=0.75\linewidth]{C:/Users/Thomas Valentin/Desktop/StageM1/Python/v1/MBPP/.experiments-ablation/llama_3_1_8b_instruct_temp0.6/plot/bubble.png}%
+\caption{Bubble Plot: Incoherence vs Error}%
+\end{figure}
+
+%
+\subsection{Log{-}Log Plot of Incoherence and Error}%
+\label{subsec:Log{-}LogPlotofIncoherenceandError}%
+This plot displays the relationship between Incoherence and Error in log{-}log scale. Only data points where both values are strictly positive are included.%
+
+
+\begin{figure}[htbp]%
+\centering%
+\includegraphics[width=0.75\linewidth]{C:/Users/Thomas Valentin/Desktop/StageM1/Python/v1/MBPP/.experiments-ablation/llama_3_1_8b_instruct_temp0.6/plot/log_log.png}%
+\caption{Log{-}Log Scatter Plot: Incoherence vs Error}%
+\end{figure}
+
+%
+\end{document}
