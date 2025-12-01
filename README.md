@@ -4,7 +4,7 @@ This repository contains the implementation used in the experiments for the Diff
 
 ## Fork notes
 
-This repository is a fork of the original, whose README continues below. Changes were made so that LLMs can be executed via AWS Bedrock. Note that you must use Python 3.12 to run the experiments.
+This repository is a fork of the original, whose README continues below. Changes were made so that LLMs can be executed via AWS Bedrock. Note that you must use Python 3.12 to run the experiments. The script `analyze_experiment.py` will generate an incoherence vs. error plot after running an experiment.
 
 ## Overview
 
@@ -98,8 +98,8 @@ Each dataset folder (e.g., `MBPP/` or `HumanEval/`) contains a `run.py` script t
 ### Example
 
 ```bash
-# Run the pointwise incoherence experiment on HumanEval
-python HumanEval/run.py
+# Run (from the root directory) the pointwise incoherence experiment on HumanEval
+python -m HumanEval.run
 ```
 
 To adjust parameters such as the LLM, number of candidate functions (`nb_candidate`), number of test inputs (`nb_sample`), or temperature settings.
