@@ -1,4 +1,10 @@
-from openai import OpenAI
+try:
+    from openai import OpenAI
+    OPENAI_AVAILABLE = True
+except ImportError:
+    OPENAI_AVAILABLE = False
+    OpenAI = None
+
 from difftrust.config import config
 from difftrust.llm.abstract import LLM
 from difftrust.llm.chat import Chat, Msg
@@ -10,13 +16,16 @@ class OpenRouterLLM(LLM):
         self.model = model
         self.temperature = temperature
         self.failed_msg = None
-        try:
-            self.client = OpenAI(
-                api_key=config()["llm"]["open_router_api_key"],
-                base_url="https://openrouter.ai/api/v1"
-            )
-        except Exception as exception:
-            self.failed_msg = f"Something went wrong when charging {model} : {exception}"
+        if not OPENAI_AVAILABLE:
+            self.failed_msg = "OpenAI package not installed (required for OpenRouter)"
+        else:
+            try:
+                self.client = OpenAI(
+                    api_key=config()["llm"]["open_router_api_key"],
+                    base_url="https://openrouter.ai/api/v1"
+                )
+            except Exception as exception:
+                self.failed_msg = f"Something went wrong when charging {model} : {exception}"
 
     def run(self, chat: Chat) -> Msg:
         if self.failed_msg is not None:

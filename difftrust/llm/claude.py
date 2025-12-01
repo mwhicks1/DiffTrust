@@ -1,4 +1,10 @@
-import anthropic
+try:
+    import anthropic
+    ANTHROPIC_AVAILABLE = True
+except ImportError:
+    ANTHROPIC_AVAILABLE = False
+    anthropic = None
+
 from difftrust.config import config
 from difftrust.llm.abstract import LLM
 from difftrust.llm.chat import Chat, Msg
@@ -9,10 +15,13 @@ class ClaudeModel(LLM):
         super().__init__(model, temperature)
         self.model = model
         self.failed_msg = None
-        try:
-            self.client = anthropic.Anthropic(api_key=config()["llm"]["claude_api_key"])
-        except Exception as exception:
-            self.failed_msg = f"Something went wrong when charging {model} : {exception}"
+        if not ANTHROPIC_AVAILABLE:
+            self.failed_msg = "Anthropic package not installed"
+        else:
+            try:
+                self.client = anthropic.Anthropic(api_key=config()["llm"]["claude_api_key"])
+            except Exception as exception:
+                self.failed_msg = f"Something went wrong when charging {model} : {exception}"
         self.max_tokens = max_tokens
 
     def run(self, chat: Chat) -> Msg:

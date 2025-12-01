@@ -2,6 +2,10 @@
 
 This repository contains the implementation used in the experiments for the DiffTrust paper, which introduces *incoherence* as a theoretically grounded proxy for correctness in LLM-based code generation—designed to operate without access to ground-truth implementations or oracles.
 
+## Fork notes
+
+This repository is a fork of the original, whose README continues below. Changes were made so that LLMs can be executed via AWS Bedrock. Note that you must use Python 3.12 to run the experiments.
+
 ## Overview
 
 Large Language Models (LLMs) have demonstrated strong performance in code generation tasks, yet concerns about *confabulation* remain—models frequently produce syntactically valid but semantically incorrect programs. In DiffTrust, we propose a principled proxy for correctness called **incoherence**, which quantifies semantic disagreement between independently sampled model outputs.

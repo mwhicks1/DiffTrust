@@ -1,10 +1,17 @@
-import openai
+try:
+    import openai
+    OPENAI_AVAILABLE = True
+except ImportError:
+    OPENAI_AVAILABLE = False
+    openai = None
+
 from difftrust.config import config
 from difftrust.llm.abstract import LLM
 from difftrust.llm.chat import Chat, Msg
 
 # Set up API key
-openai.api_key = config()["llm"]["openai_api_key"]
+if OPENAI_AVAILABLE:
+    openai.api_key = config()["llm"]["openai_api_key"]
 
 _no_temperature = {"o1-2024-12-17", "o3-mini-2025-01-31", "o4-mini"}
 
@@ -14,10 +21,13 @@ class OpenAIModel(LLM):
         super().__init__(model, temperature)
         self.model = model
         self.failed_msg = None
-        try:
-            self.client = openai.OpenAI(api_key=config()["llm"]["openai_api_key"])
-        except Exception as exception:
-            self.failed_msg = f"Something went wrong when charging {model} : {exception}"
+        if not OPENAI_AVAILABLE:
+            self.failed_msg = "OpenAI package not installed"
+        else:
+            try:
+                self.client = openai.OpenAI(api_key=config()["llm"]["openai_api_key"])
+            except Exception as exception:
+                self.failed_msg = f"Something went wrong when charging {model} : {exception}"
 
     def run(self, chat: Chat) -> Msg:
         if self.failed_msg is not None:

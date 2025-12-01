@@ -4,6 +4,7 @@ import difftrust.llm.gemini as gemini
 import difftrust.llm.chatgpt as chatgpt
 import difftrust.llm.claude as claude
 import difftrust.llm.open_router as open_router
+import difftrust.llm.bedrock as bedrock
 from difftrust.llm.chat import _set_log_function as set_log_function
 
 _llm_dict = {
@@ -37,7 +38,13 @@ _llm_dict = {
     "gemma_3_1b_it": open_router.gemma_3_1b_it,
     "ministral_8b": open_router.ministral_8b,
     "llama_3_1_8b_instruct": open_router.llama_3_1_8b_instruct,
-    "qwen3_8b": open_router.qwen3_8b
+    "qwen3_8b": open_router.qwen3_8b,
+    "claude_3_5_sonnet_bedrock": bedrock.claude_3_5_sonnet_bedrock,
+    "claude_3_5_haiku_bedrock": bedrock.claude_3_5_haiku_bedrock,
+    "claude_3_opus_bedrock": bedrock.claude_3_opus_bedrock,
+    "nova_pro_bedrock": bedrock.nova_pro_bedrock,
+    "nova_lite_bedrock": bedrock.nova_lite_bedrock,
+    "nova_micro_bedrock": bedrock.nova_micro_bedrock
 }
 
 general_models = {

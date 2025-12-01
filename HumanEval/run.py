@@ -138,8 +138,11 @@ class ExperimentRunner:
             self.ctxt.log(experiment_log_name, log)
             return
         except Exception as e:
+            import traceback
             msg = f"An exception ({type(e).__name__} : {e}) occurred during disagreement computation"
             print(msg)
+            print("Full traceback:")
+            traceback.print_exc()
             log["Failed"] = msg
             self.ctxt.log(experiment_log_name, log)
             return
@@ -175,7 +178,8 @@ class ExperimentRunner:
 
 
 if __name__ == "__main__":
-    llm_name = "gemini_2_0_flash"
+#    llm_name = "gemini_2_0_flash"
+    llm_name = "claude_3_5_sonnet_bedrock"  # or any other bedrock model
     slow_mode = True
     print(f"Model is {llm_name}")
     temp = 0.2
@@ -195,4 +199,5 @@ if __name__ == "__main__":
 
     runner = ExperimentRunner(ctxt, dataset)
 
+#    runner.run_one_instance(dataset.instances[0], "pointwise", call_llm_api=True, suffix="", slow_mode=None)
     runner.run("pointwise", call_llm_api=True, suffix="", slow_mode=None)

@@ -1,15 +1,25 @@
-from google import genai
-from google.genai import types
+try:
+    from google import genai
+    from google.genai import types
+    GOOGLE_AVAILABLE = True
+except ImportError:
+    GOOGLE_AVAILABLE = False
+    genai = None
+    types = None
+
 from difftrust.config import config
 from difftrust.llm.abstract import LLM
 from difftrust.llm.chat import Chat, Msg
 
 # Getting client
 failed_msg = None
-try:
-    googleai_client = genai.Client(api_key=config()["llm"]["google_ai_api_key"])
-except Exception as exception:
-    failed_msg = f"Something went wrong when charging gemini client : {exception}"
+if GOOGLE_AVAILABLE:
+    try:
+        googleai_client = genai.Client(api_key=config()["llm"]["google_ai_api_key"])
+    except Exception as exception:
+        failed_msg = f"Something went wrong when charging gemini client : {exception}"
+else:
+    failed_msg = "Google Generative AI package not installed"
 
 
 class Gemini(LLM):
